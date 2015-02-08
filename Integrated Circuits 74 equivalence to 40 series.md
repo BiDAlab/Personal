@@ -34,5 +34,3 @@
  
 # Schematic images album:
 http://imgur.com/a/Vznr0
-
-http://i.imgur.com/VKHAPpE.gif
