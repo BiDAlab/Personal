@@ -33,4 +33,4 @@
 7415    →   4073    Triple 3-Input AND Gate with Open Collector Outputs
  
 # Schematic images album:
-http://imgur.com/a/Vznr0
+[Integrated digital Circuits tll 74 series](http://imgur.com/a/Vznr0)
