@@ -1,6 +1,6 @@
 # Integrated digital Circuits tll equivalence (74 series to 40):
  
-7400	→	4011    Quad 2-Input NAND Gate
+7400 → 4011    Quad 2-Input NAND Gate
 
 7401 → 4081    Quad 2-Input NAND Gate with Open Collector Outputs
 
