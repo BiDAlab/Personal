@@ -7,7 +7,12 @@ Los países más destacados en este período son:
   - [x]  Japón  
   - [ ]  Rusia  
 
-----------------------------
+### Origen:  
+  * La caída de los precios → *Gran depresión*. Debida a:  
+    * El exceso de oferta  
+    * La escasez de demanda, debida al pésimo reparto de la riqueza  
+  * Comienza una nueva onda *Kondratieff*  
+
 ### Características:  
   * **Nuevas fuentes de energía**:  
     - [ ] Carbón
@@ -21,9 +26,58 @@ Los países más destacados en este período son:
     Siderúrgica | Diversificación: **Agroalimentaria**, **textil**, **cementera**, **papelera**, **armas**, **electrodomésticos**, **automóvil**, **maquinaria**, ...
   * **Inventos**:  
     - [x] Automóvil → *Ford*  
-    - [x] Convertidor → *Bessemer*  
+    - [x] Convertidor Bessemer  
     - [x] Bombilla  
     - [x] Teléfono  
     - [x] Electrodomésticos  
     - [x] Tranvía  
-    - [x] Radio y cinematógrafo
+    - [x] Radio y cinematógrafo  
+  * **Nueva organización científica del trabajo**:  
+    - [x] Separación entre trabajo intelectual y manual  
+    - [x] Taylorismo:  
+      * Producción en cadena  
+      * Especialización de operarios  
+    - [x] Producción masiva → *Sustituye al trabajo artesano*  
+    - [x] Abaratemiento de los precios  
+  * **Nueva organización empresarial**:  
+    * **Monopolios** → *Fin de la pequeña empresa y de la competencia*. Tipos:  
+      1.  **Trust**: Fusión de varias empresas que se dedican a lo mismo.  
+      2.  **Holding**: Grupo financiero que posee la mayoría de las acciones de empresas y bancos.  
+      3.  **Cartel**: Asociación de distintas empresas para apoyarse y administrarse en grupo.  
+  * **Auge de la Banca y de la Bolsa de valores**: Capitalismo financiero, los bancos compran gran parte de las acciones de las empresas.  
+  * **Comercio**:
+    * Globalización de la economía → Imperialismo  
+    * Distinción entre países de *capitalismo dominante* y países de *capitalismo dependiente* → Imperialismo
+    * Favorecido por:  
+      * Nuevos transportes  
+      * Abundancia de dinero  
+      * Auge de la Banca  
+    * Tensiones entre países → PGM  
+    * Monopolios, no hay libre competencia  
+  * **Transporte**:  
+    * Terrestre:  
+      - [ ] Ferrocarril → Urbano y eléctrico  
+      - [x] Red ferroviaria mundial  
+      - [x] Grandes Proyectos: *Transiberiano*, *Union Pacific*  
+      - [x] Automóvil
+    * Marítimo:  
+      - [x] Grandes barcos a motor *(diesel)*  
+      - [x] Obras de ingeniería: *Canal de Suez*, *Canal de Panamá*  
+      - [x] Submarino
+    * Aéreo:
+      - [x] Globos aerostáticos y dirigibles  
+      - [x] Investigación en aeroplanos  
+    * Telecomunicaciones:  
+      - [x] Telégrafo  
+      - [x] Teléfono  
+      - [x] Radio
+  * **Sector Primario**:
+  * Agricultura:
+    * Se mundializa
+    * Se especializa por áreas:
+      - [x] Países Nuevos: Del hemisferio norte y sur. Producen lo que Europa pero de forma más competitiva *(cereales, carne, lana...)*  
+      - [x] Trópicos: Las plantaciones esclavistas se transforman en capitalistas. Grandes latifundios de monocultivos para la exportación. Explotación extrema de la mano de obra. *Café, azúcar, cacao, té, frutas tropicales, caucho, algodón,...*  
+      - [ ] Europa: reconvierte su agricultura, haciéndose más intensiva con el empleo de maquinaria y abonos químicos. *Frutas, hortalizas, flores, ...*  
+    * Se desarrolla la industria alimentaria gracias a:  
+      * Frigorífico  
+      * Conservas  
