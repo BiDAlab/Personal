@@ -8,10 +8,10 @@ Los países más destacados en este período son:
   - [ ] Rusia  
 
 ### Origen:  
-  * La caída de los precios → *Gran depresión*. Debida a:  
+  * **Gran depresión**: caída de los precios debida a:  
     * El exceso de oferta  
     * La escasez de demanda, debida al pésimo reparto de la riqueza  
-  * Comienza una nueva onda *Kondratieff*  
+  * Comienza una **nueva onda** ***Kondratieff***  
 
 ### Características:  
   * **Nuevas fuentes de energía**:  
@@ -22,8 +22,8 @@ Los países más destacados en este período son:
   
     Previas | Nuevas
     --- | ---
-    Textil | Principales: **Industria química** (ligera y pesada), **Siderurgia** (Hierro y acero) y **Metalurgia** (Otros metales)
-    Siderúrgica | Diversificación: **Agroalimentaria**, **textil**, **cementera**, **papelera**, **armas**, **electrodomésticos**, **automóvil**, **maquinaria**, ...
+    **Textil** | Principales: **Industria química** (ligera y pesada), **Siderurgia** (Hierro y acero) y **Metalurgia** (Otros metales)
+    **Siderúrgica** | Diversificación: **Agroalimentaria**, **textil**, **cementera**, **papelera**, **armas**, **electrodomésticos**, **automóvil**, **maquinaria**, ...
   * **Inventos**:  
     * Automóvil → *Ford*  
     * Convertidor Bessemer  
