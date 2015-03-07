@@ -1,11 +1,11 @@
 ## Segunda Revolución Industrial:  
 ### Rasgos:  
-Se desarrolló entre los años `1875` y `1914`, teniendo influencias hasta el `1929`.  
+Se desarrolló entre los años **`1875`** y **`1914`**, teniendo influencias hasta el **`1929`**.  
 Los países más destacados en este período son:  
-  - [x] Alemania  
-  - [x] EEUU  
-  - [x] Japón  
-  - [ ] Rusia  
+  - [x] **Alemania**  
+  - [x] **EEUU**  
+  - [x] **Japón**  
+  - [ ] **Rusia**  
 
 ### Origen:  
   * **Gran depresión**: caída de los precios debida a:  
@@ -34,7 +34,7 @@ Los países más destacados en este período son:
     * Radio y cinematógrafo  
   * **Nueva organización científica del trabajo**:  
     * Separación entre trabajo intelectual y manual  
-    * Taylorismo:  
+    * **Taylorismo**:  
       * Producción en cadena  
       * Especialización de operarios  
     * Producción masiva → *Sustituye al trabajo artesano*  
@@ -46,14 +46,14 @@ Los países más destacados en este período son:
       3.  **Cartel**: Asociación de distintas empresas para apoyarse y administrarse en grupo.  
   * **Auge de la Banca y de la Bolsa de valores**: Capitalismo financiero, los bancos compran gran parte de las acciones de las empresas.  
   * **Comercio**:
-    * Globalización de la economía → Imperialismo  
-    * Distinción entre países de *capitalismo dominante* y países de *capitalismo dependiente* → Imperialismo
+    * Globalización de la economía → Imperialismo.  
+    * Distinción entre países de *capitalismo dominante* y países de *capitalismo dependiente* → Imperialismo.  
     * Favorecido por:  
-      * Nuevos transportes  
-      * Abundancia de dinero  
-      * Auge de la Banca  
-    * Tensiones entre países → PGM  
-    * Monopolios, no hay libre competencia  
+      * Nuevos transportes.  
+      * Abundancia de dinero.  
+      * Auge de la Banca.  
+    * Tensiones entre países → **Primera Guerra Mundial**.  
+    * Monopolios, no hay libre competencia.  
   * **Transporte**:  
     * Terrestre:  
       - [ ] Ferrocarril → Urbano y eléctrico  
@@ -98,3 +98,33 @@ Los países más destacados en este período son:
       * Intercontinentales: a Colonias y Países Nuevos  
     * Gran aumento de la población en las ciudades → Ensanches  
     * Paso de la sociedad liberal a la de **masas**  
+
+### Sociedad industrial:  
+Las diferencias entre clases surgen por la **riqueza**, dando lugar a dos grandes grupos:  
+  * **Burguesía**: Grupo minoritario que acaparaba gran cantidad de riquezas:  
+    * Habita en los mejores barrios de las ciudades.  
+    * La mayoría de dedica al comercio.  
+    * Posee abundante capital, que invierte en industrias.  
+    * Son los propietarios de fábricas, maquinaria, materias primas, productos manufacturados, buena parte de las.   tierras e inmuebles urbanos.  
+    * La pequeña burguesía se compone de tenderos y empleados.  
+  * **Proletariado**: Obreros industriales explotados y mal pagados:  
+    * Incrementan en número conforme la industrialización toma riqueza proveniente de la agricultura *(que necesita menos compesinos que las fábricas)*.  
+    * Sus condiciones de vida son muy precarias, estan sometidos a extenuantes jornadas de trabajo sin higiene ni seguridad bajo salarios ínfimos.  
+    * Viven en barrios miserables.  
+    * Están constantemente expuestos a la mendicidad.  
+    * Se organizan en **sindicatos** y **partidos** para mejorar sus condiciones de vida.  
+    - [x] **Asociaciones de obreros**:  
+      * **Ludismo**: reacción obrera en los inicios de la industrialización. Provoca la oposición al maquinismo, es decir, la destrucción de maquinaria y el incendio de establecimientos industriales.  
+      * **Sociedades de Socorros Mutuos**: la conciencia entre los miembros de la clase obrera y la necesidad de protección les llevan a crear **sociedades de resistencia** para ofrecer ayuda mutua en caso de enfermedad o paro.  
+      * **Sindicatos**: Agrupaciones de obreros del mismo campo para mejorar sus condiciones laborales:  
+        + Derecho de asociación.  
+        + Reducción de jornada laboral.  
+        + Mejoras salariales.  
+        + Regulación del trabajo infantil.  
+
+### Las Ciudades:  
+Debido al incesante aumento de la población y al éxodo rural fomentado por la industrialización, las ciudades fueron **aumentando su tamaño** y **modificando su forma**:  
+  * **Centro urbano**: Derrumbamiento de murallas, nuevos trazados, alcantarillado y servicios.  
+  * **Barrios residenciales**: Lujosos pisos con jardines y parques destinados para la burguesía.  
+  * **Suburbios obreros**: calles precarias con trazado irregular, hacinamiento de trabajadores de las fábricas próximas y enorme debilidad ante epidemias.  
+  * **Medios de transporte**: ferrocarril interurbano, tranvía, metro y automóvil.  
