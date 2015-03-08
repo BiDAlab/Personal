@@ -24,18 +24,18 @@
 ### Cronología y protagonistas:  
 **Se desarrolló entre los años `1870` y `1914`**.  
 Los países colonizadores son:  
-  *	[**Europeos**]():  
-    - [x] **Inglaterra**: etapa victoriana.  
-    - [x] **Francia**: Tercera República.  
-    - [x] **Alemania**: Segundo Reich, gobierno de Bismark.  
-    - [x] **Italia**: unificada.  
-    - [x] **Bélgica**  
-    - [ ] **España**  
-    - [ ] **Portugal**  
-    - [ ] **Holanda**  
-  *	[**Estados Unidos**]()  
-  *	[**Japón**]()  
-  *	[**Rusia**]()  
+  *	[**Europeos**](#gran-bretaña):  
+    - [x] [**Inglaterra**:](#gran-bretaña) etapa victoriana.  
+    - [x] [**Francia**:](#francia) Tercera República.  
+    - [x] [**Alemania**:](#alemania) Segundo Reich, gobierno de Bismark.  
+    - [x] [**Italia**:](#italia) unificada.  
+    - [x] [**Bélgica**](#bélgica)  
+    - [ ] [**España**](#españa)  
+    - [ ] [**Portugal**](#portugal)  
+    - [ ] [**Holanda**](#holanda)  
+  *	[**Estados Unidos**](#eeuu)  
+  *	[**Japón**](#japón)  
+  *	[**Rusia**](#rusia)  
 
 ### Vocabulario:  
   * **Dominio**: Zonas de inmigración europea, que tienen cultura e instituciones europeas. El control de la metrópoli sobre ellos no es conflictivo, ya que la población se siente unida a la metrópoli. *Canadá*  
