@@ -2,7 +2,7 @@
 Repositorio de trabajos personales. 
 ## Índice:  
   * **Matemáticas**:
-    - [x] [Apuntes de Inecuaciones](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Apuntes%20de%20inecuaciones.md#inecuaciones):  
+    - [x] [Apuntes de Inecuaciones](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Apuntes%20de%20inecuaciones.md#apuntes-de-inecuaciones):  
       - [x] [Inecuaciones](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Inecuaciones.md#inecuaciones)
       - [x] [Propiedades de las inecuaciones](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Propiedades%20de%20las%20inecuaciones.md#propiedades-de-las-inecuaciones)
       - [x] [Inecuaciones de primer grado con una incógnita](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Inecuaciones%20de%20primer%20grado%20con%20una%20inc%C3%B3gnita.md#resoluci%C3%B3n-de-inecuaciones-de-primer-grado)
