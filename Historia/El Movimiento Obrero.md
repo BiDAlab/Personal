@@ -1,5 +1,5 @@
 ## El movimiento obrero:  
-
+### Índice:  
  *	[**Hasta `1848`**](#hasta-1848):  
  	*	[Reacción destructiva](#reacción-destructiva)  
  	*	[Reacción asociativa](#asociacionismo):  
@@ -14,7 +14,8 @@
  	*	[2ª Internacional](#2ª-internacional-1889-1914): Sólo van los marxistas.  
  	*	[3ª Internacional ***(Komintern)***](#3ª-internacional-o-komintern-1919-1943): Sólo van los marxistas revolucionarios (comunistas)  
 
-### Hasta 1848:  
+---
+### Hasta `1848`:  
 Se actúa sin entender lo que ocurre, espontáneamente.
 
 #### Reacción destructiva:  
@@ -27,7 +28,7 @@ Se entiende que en la unión está la fuerza. Las primeras asociaciones fueron d
 Entre estas la principal es el sindicato que es una asociación de trabajadores, para lograr mejoras laborales mediante presión. El instrumento de presión es la huelga. Los afiliados al sindicato pagan cuotas con las que se crea la caja de resistencia, que ayuda a sobrellevar las huelgas. Los sindicatos empezaron siendo locales y por oficios (como los gremios). Luego fueron haciéndose nacionales y abarcando la totalidad de los oficios, para impedir que los empresarios pudieran romper las huelgas.  
 A principios del siglo `XX` surge el sindicalismo revolucionario que se plantea la posibilidad de convocar huelgas generales con sentido revolucionario y político, no laboral. De ahí saldrá el anarcosindicalismo.
 
-### Desde 1848 hasta 1864:  
+### Desde `1848` hasta `1864`:  
 Creación de las ideologías: el socialismo.  
 El socialismo se plantea como ideología alternativa al liberalismo, con otros valores. En vez de Libertad/ Individuo/ Competencia, serán Justicia/ sociedad/ solidaridad. El problema se ve en la propiedad. Hay muchos socialismos. Los más conocidos son el Utópico, el anarquismo y el marxismo.
 
