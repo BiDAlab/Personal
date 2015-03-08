@@ -7,14 +7,17 @@
   * [Oposición al Imperialismo](#oposición-al-imperialismo)  
   * [Relaciones Internacionales](#relaciones-internacionales)
   * [Imperios](#imperios):
-    * [Inglaterra](#)  
-    * [Francia](#)  
-    * [Alemania](#)  
-    * [Italia](#)  
-    * [Bélgica](#)  
-    * [España](#)  
-    * [Portugal](#)  
-    * [Holanda](#)  
+    * [Inglaterra](#gran-bretaña)  
+    * [Francia](#francia)  
+    * [Alemania](#alemania)  
+    * [Italia](#italia)  
+    * [Bélgica](#bélgica)  
+    * [España](#españa)  
+    * [Portugal](#portugal)  
+    * [Holanda](#holanda)  
+    * [Estados Unidos](#eeuu)  
+    * [Japón](#japón)  
+    * [Rusia](#rusia)
 
 ---  
 
