@@ -59,6 +59,7 @@ Podemos expresar la solución de la inecuación mediante:
    !["Ejemplo 4"](http://www.vitutor.org/ecuaciones/ine/images/4.gif "Solución gráfica")
    
    *Sol:* **[4, ∞)**  
+
 ## Propiedades de las inecuaciones:
 **Criterios de equivalencia**:
  *  Si a los dos miembros de una inecuación se les **suma** o se les **resta** un mismo número, la inecuación resultante es equivalente a la dada:
@@ -84,6 +85,7 @@ Podemos expresar la solución de la inecuación mediante:
  `(−x) · (−1) > 5 · (−1)`
  
  `x > −5`  
+
 ## Resolución de inecuaciones de primer grado:
 Considerando la inecuación:  
 !["Inecuación"](http://www.vitutor.org/ecuaciones/ine/images/5.gif "Inecuación")  
