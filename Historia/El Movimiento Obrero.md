@@ -1,5 +1,5 @@
 ## El movimiento obrero:  
-  * **Hasta `1848`**:  
+  * [**Hasta `1848`**](#hasta-1848):  
     * Reacción destructiva  
     * Reacción asociativa:  
       * Mutualista  
@@ -10,10 +10,8 @@
     * 2ª Internacional: Sólo van los marxistas.  
     * 3ª Internacional ***(Komintern)***: Sólo van los marxistas revolucionarios (comunistas)
 
-1.
--
-Hasta 1848
-. Se actúa sin entender lo que ocurre, espontáneamente.
+### Hasta 1848:  
+Se actúa sin entender lo que ocurre, espontáneamente.
 1.1.
 -
 Las primeras manifestaciones son destructivas. Se culpa a las máquinas de lo que
