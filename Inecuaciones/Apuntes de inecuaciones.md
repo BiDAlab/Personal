@@ -155,6 +155,7 @@ La resolvemos mediante los siguientes pasos:
 > 5.  Los intervalos solución son los que cumplen que la inecuación mediante el signo evaluado:  
   !["Solución"](http://www.vitutor.org/ecuaciones/ine/images/25.gif "Intervalos de solución")  
   *Sol:* **`(-∞, 2)`⋃`(4, +∞)`**  
+  
 # Resolver inecuaciones racionales:
 Las inecuaciones racionales se resuelven de un modo similar a las de segundo grado, pero hay que tener presente que el denominador **no puede ser cero**.  
 Tomaremos como ejemplo la inecuación:  
