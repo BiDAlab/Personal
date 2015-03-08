@@ -1,12 +1,15 @@
 # Apuntes de Inecuaciones:  
 ## Índice:  
 * [Inecuaciones](#inecuaciones)
+	*	[Ejemplos](#ejemplos)
 * [Propiedades de las inecuaciones](#propiedades-de-las-inecuaciones)
 * [Inecuaciones de primer grado con una incógnita](#resoluci%C3%B3n-de-inecuaciones-de-primer-grado)
 * [Inecuaciones de primer grado con dos incógnitas](#resoluci%C3%B3n-de-ecuaciones-con-dos-inc%C3%B3gnitas)
 * [Inecuaciones de segundo grado](#resoluci%C3%B3n-de-inecuaciones-de-segundo-grado)
 * [Inecuaciones racionales](#resolver-inecuaciones-racionales)
+	*	[Ejemplo](#ejemplo)
 * [Sistemas de inecuaciones con una incógnita](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
+	*	[Ejemplos](#ejemplos-1)
 * [Sistemas de inecuaciones con dos incógnitas](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
 
 ## Inecuaciones
