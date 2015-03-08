@@ -1,18 +1,18 @@
 ## El movimiento obrero:  
 
  *	[**Hasta `1848`**](#hasta-1848):  
- 	*	Reacción destructiva  
- 	*	Reacción asociativa:  
+ 	*	[Reacción destructiva](#reacción-destructiva)  
+ 	*	[Reacción asociativa](#asociacionismo):  
  		*	Mutualista  
  		*	Reivindicativa  
- *	[**Desde `1848` hasta `1864`**](): Ruptura con la burguesía → Creación de **ideologías alternativas**:  
- 	*	[Socialismo utópico]  
- 	*	[Marxismo]  
- 	*	[Anarquismo]  
- *	[**Desde `1864`**](): Articulación mundial del movimiento obrero → **Las Internacionales**:  
- 	*	[1ª Internacional ***(AIT)***](): Reúne a todos los socialismos.  
- 	*	[2ª Internacional](): Sólo van los marxistas.  
- 	*	[3ª Internacional ***(Komintern)***](): Sólo van los marxistas revolucionarios (comunistas)  
+ *	[**Desde `1848` hasta `1864`**](#desde-1848-hasta-1864): Ruptura con la burguesía → Creación de **ideologías alternativas**:  
+ 	*	[Socialismo utópico](#socialismo-utópico)  
+ 	*	[Marxismo](#el-marxismo)  
+ 	*	[Anarquismo](#el-anarquismo)  
+ *	[**Desde `1864`**](#desde-1864): Articulación mundial del movimiento obrero → **Las Internacionales**:  
+ 	*	[1ª Internacional ***(AIT)***](#1ª-internacional-o-ait-1864-1876): Reúne a todos los socialismos.  
+ 	*	[2ª Internacional](#2ª-internacional-1889-1914): Sólo van los marxistas.  
+ 	*	[3ª Internacional ***(Komintern)***](#3ª-internacional-o-komintern-1919-1943): Sólo van los marxistas revolucionarios (comunistas)  
 
 ### Hasta 1848:  
 Se actúa sin entender lo que ocurre, espontáneamente.
@@ -74,13 +74,13 @@ Los métodos para lograrlo son múltiples, porque no hay una teoría anarquista 
 Las Internacionales.  
 Son un intento de coordinar el movimiento obrero a nivel mundial para darle fuerza. También así se combate el nacionalismo de la burguesía. Es el famoso: “proletarios del mundo, unios”.  
 
-#### 1ª Internacional o *AIT* `1864`/`1876`:  
+#### 1ª Internacional o *AIT* `1864`-`1876`:  
 Fue un intento de unir el movimiento obrero mundial en una estrategia y una organización comunes. Acudieron todos, pero sobresalieron marxistas y anarquistas. Sus consecuencias fueron:  
 	*	La falta absoluta de entendimiento entre marxismo y anarquismo generó la división para siempre del movimiento, y la expulsión de los anarquistas.  
 	*	Marx se impuso, y el marxismo se extendió por todos los países, dominando desde entonces el movimiento obrero.
 	*	La propuesta marxista fue la creación de partidos políticos de clase (obreros) que lucharan por la revolución comunista, sin colaborar con los partidos burgueses, aunque fueran progresistas. El objetivo no es ganar las elecciones, sino el socialismo, la dictadura del proletariado. Serán los llamados Partidos Socialistas, de los que el más famoso será el alemán. En España es el PSOE.  
 
-#### 2ª Internacional `1889`/`1914`:  
+#### 2ª Internacional `1889`-`1914`:  
 Sólo acuden los marxistas, Marx ya ha muerto. El marxismo se divide en dos ramas: 1) los que creen que Marx tenía razón y hay que hacer la revolución. 2) los que creen que no ha interpretado bien la Historia, y no ven necesario destruir el liberalismo, sino empujarlo hacia la izquierda, a mayores cotas de justicia (Bernstein).  
 Eso hace que los marxistas se dividan para siempre en dos grupos:  
 	*	Comunistas: son los revolucionarios; se autodenominan marxistas ortodoxos. El más representativo será Lenin. Hablarán de la dictadura del proletariado como “el socialismo real” para distinguirlo del socialismo de los socialdemócratas.  
@@ -89,5 +89,5 @@ Eso hace que los marxistas se dividan para siempre en dos grupos:
 La II Internacional rechazó oficialmente el imperialismo y la guerra.  
 Se crean símbolos que han perdurado: el himno, el 1º de mayo...  
 
-#### 3ª Internacional o Komintern, `1919`/`1943`:  
+#### 3ª Internacional o Komintern, `1919`-`1943`:  
 Sólo van los comunistas. Se verá en el tema de la revolución soviética.
