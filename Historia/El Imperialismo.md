@@ -1,6 +1,6 @@
 ## El Imperialismo:  
 ### Índice:  
-  * [Cronología](#cronolog)
+  * [Cronología](#cronología-y-protagonistas)
 
 ---  
 ### Cronología y protagonistas:  
