@@ -14,7 +14,7 @@ Repositorio de trabajos personales.
   * **Historia**:
     - [x] [Segunda Revolución Industrial](https://github.com/KaliNuska/Personal/blob/master/Historia/Segunda%20Revoluci%C3%B3n%20Industrial.md#segunda-revoluci%C3%B3n-industrial)
     - [ ] [Movimiento Obrero](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Movimiento%20Obrero.md#el-movimiento-obrero)
-    - [ ] [El Imperialismo](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Imperialismo.md#el-imperialismo)
+    - [x] [El Imperialismo](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Imperialismo.md#el-imperialismo)
   * **Biología y Geología**:
     - [x] [Problemas de genética](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#recopilaci%C3%B3n-de-problemas-de-gen%C3%A9tica-resueltos)
   * **Lengua y Literatura**:
