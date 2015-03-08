@@ -1,10 +1,10 @@
 # Recopilación de problemas de genética resueltos
 ### Índice:
-  1.  [Caracteres recesivos](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#problema-1--caracteres-recesivos "Problema 1")
-  2.  [Hijos con acondroplasia](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#problema-2--hijos-con-acondroplasia "Problema 2")
-  3.  [Lana de borregos](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#problema-3--lana-de-borregos "Problema 3")
-  4.  [Dondiego de noche](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#problema-4--dondiego-de-noche "Problema 4")
-  5.  [Gallinas](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#problema-5--gallinas "Problema 5")
+  1.  [Caracteres recesivos](#problema-1--caracteres-recesivos "Problema 1")
+  2.  [Hijos con acondroplasia](#problema-2--hijos-con-acondroplasia "Problema 2")
+  3.  [Lana de borregos](#problema-3--lana-de-borregos "Problema 3")
+  4.  [Dondiego de noche](#problema-4--dondiego-de-noche "Problema 4")
+  5.  [Gallinas](#problema-5--gallinas "Problema 5")
 
 ## Problema 1 → Caracteres recesivos:  
 **Los individuos que manifiestan un carácter recesivo, ¿Son homocigóticos o heterocigóticos para el carácter? ¿Por qué?**  
