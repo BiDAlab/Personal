@@ -1,3 +1,14 @@
+# Apuntes de Inecuaciones:  
+## Índice:  
+  - [x] [Inecuaciones](#inecuaciones)
+  - [x] [Propiedades de las inecuaciones](#propiedades-de-las-inecuaciones)
+  - [x] [Inecuaciones de primer grado con una incógnita](#resoluci%C3%B3n-de-inecuaciones-de-primer-grado)
+  - [x] [Inecuaciones de primer grado con dos incógnitas](#resoluci%C3%B3n-de-ecuaciones-con-dos-inc%C3%B3gnitas)
+  - [x] [Inecuaciones de segundo grado](#resoluci%C3%B3n-de-inecuaciones-de-segundo-grado)
+  - [x] [Inecuaciones racionales](#resolver-inecuaciones-racionales)
+  - [x] [Sistemas de inecuaciones con una incógnita](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
+  - [x] [Sistemas de inecuaciones con dos incógnitas](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
+
 # Inecuaciones
 Una **inecuación** es una **desigualdad algebraica** en la que sus dos miembros aparecen ligados por uno de estos signos:
 
