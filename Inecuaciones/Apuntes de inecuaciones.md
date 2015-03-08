@@ -1,15 +1,15 @@
 # Apuntes de Inecuaciones:  
 ## Índice:  
-  - [x] [Inecuaciones](#inecuaciones)
-  - [x] [Propiedades de las inecuaciones](#propiedades-de-las-inecuaciones)
-  - [x] [Inecuaciones de primer grado con una incógnita](#resoluci%C3%B3n-de-inecuaciones-de-primer-grado)
-  - [x] [Inecuaciones de primer grado con dos incógnitas](#resoluci%C3%B3n-de-ecuaciones-con-dos-inc%C3%B3gnitas)
-  - [x] [Inecuaciones de segundo grado](#resoluci%C3%B3n-de-inecuaciones-de-segundo-grado)
-  - [x] [Inecuaciones racionales](#resolver-inecuaciones-racionales)
-  - [x] [Sistemas de inecuaciones con una incógnita](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
-  - [x] [Sistemas de inecuaciones con dos incógnitas](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
+* [Inecuaciones](#inecuaciones)
+* [Propiedades de las inecuaciones](#propiedades-de-las-inecuaciones)
+* [Inecuaciones de primer grado con una incógnita](#resoluci%C3%B3n-de-inecuaciones-de-primer-grado)
+* [Inecuaciones de primer grado con dos incógnitas](#resoluci%C3%B3n-de-ecuaciones-con-dos-inc%C3%B3gnitas)
+* [Inecuaciones de segundo grado](#resoluci%C3%B3n-de-inecuaciones-de-segundo-grado)
+* [Inecuaciones racionales](#resolver-inecuaciones-racionales)
+* [Sistemas de inecuaciones con una incógnita](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
+* [Sistemas de inecuaciones con dos incógnitas](#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
 
-# Inecuaciones
+## Inecuaciones
 Una **inecuación** es una **desigualdad algebraica** en la que sus dos miembros aparecen ligados por uno de estos signos:
 
 > `<` menor que `2x − 1 < 7`
@@ -59,7 +59,7 @@ Podemos expresar la solución de la inecuación mediante:
    !["Ejemplo 4"](http://www.vitutor.org/ecuaciones/ine/images/4.gif "Solución gráfica")
    
    *Sol:* **[4, ∞)**  
-# Propiedades de las inecuaciones:
+## Propiedades de las inecuaciones:
 **Criterios de equivalencia**:
  *  Si a los dos miembros de una inecuación se les **suma** o se les **resta** un mismo número, la inecuación resultante es equivalente a la dada:
  
@@ -84,7 +84,7 @@ Podemos expresar la solución de la inecuación mediante:
  `(−x) · (−1) > 5 · (−1)`
  
  `x > −5`  
-# Resolución de inecuaciones de primer grado:
+## Resolución de inecuaciones de primer grado:
 Considerando la inecuación:  
 !["Inecuación"](http://www.vitutor.org/ecuaciones/ine/images/5.gif "Inecuación")  
 La podremos resolver mediante los siguientes pasos:  
@@ -117,7 +117,7 @@ La podremos resolver mediante los siguientes pasos:
   * Como intervalo:  
   **[3, +∞)**  
 
-# Resolución de ecuaciones con dos incógnitas:
+## Resolución de ecuaciones con dos incógnitas:
 La solución de una ecuación de primer grado con dos incógnitas es **uno de los semiplanos que resulta de representar la ecuación resultante, que se obtiene al transformar la desigualdad en una igualdad**.  
 `2x + y ≤ 3`  
 >	1.	Transformar la **desigualdad** en **igualdad**:  
@@ -143,7 +143,7 @@ La solución de una ecuación de primer grado con dos incógnitas es **uno de lo
 		`7 ≤ 3` **No**  
 		!["no es solución"](http://www.vitutor.org/ecuaciones/ine/images/29.gif "No es solución")  
 
-# Resolución de inecuaciones de segundo grado:
+## Resolución de inecuaciones de segundo grado:
 `x² - 6x + 8 > 0`  
 La resolvemos mediante los siguientes pasos:  
 > 1.  Transformar la desigualdad en igualdad una vez que uno de los miembros sea 0:  
@@ -167,7 +167,7 @@ La resolvemos mediante los siguientes pasos:
   !["Solución"](http://www.vitutor.org/ecuaciones/ine/images/25.gif "Intervalos de solución")  
   *Sol:* **`(-∞, 2)`⋃`(4, +∞)`**  
   
-# Resolver inecuaciones racionales:
+## Resolver inecuaciones racionales:
 Las inecuaciones racionales se resuelven de un modo similar a las de segundo grado, pero hay que tener presente que el denominador **no puede ser cero**.  
 Tomaremos como ejemplo la inecuación:  
 !["Inecuación"](http://www.vitutor.org/ecuaciones/ine/images/33.gif "Inecuación")  
@@ -201,7 +201,7 @@ Tomaremos como ejemplo la inecuación:
   !["Evaluar signo"](http://www.vitutor.org/ecuaciones/ine/images/49.gif "Evaluar signo")  
   *Sol:* **`(-∞, 2)`⋃`(7, ∞)`**  
 
-# Resolución de sistemas de inecuaciones con una incógnita:  
+## Resolución de sistemas de inecuaciones con una incógnita:  
 Para resolver un sistema de dos inecuaciones con una sola incógnita, has de seguir estos pasos:  
 ![](http://www.vitutor.org/ecuaciones/ine/images/15.gif "Sistema de inecuaciones")  
 > 1.  Resolver cada inecuación de forma **independiente**:  
@@ -232,7 +232,7 @@ Para resolver un sistema de dos inecuaciones con una sola incógnita, has de seg
  ![](http://www.vitutor.org/ecuaciones/ine/images/23.gif "Intervalos y solución")  
  *Sol:* **`No hay solución`**  
 
-# Resolución de sistemas de inecuaciones con dos incógnitas:
+## Resolución de sistemas de inecuaciones con dos incógnitas:
 La solución a este sistema de inecuaciones con dos incógnitas se obtiene con los siguientes pasos:  
 ![](http://www.vitutor.org/ecuaciones/ine/images/30.gif "Sistema de inecuaciones")  
 > 1.  Resolver la primera inecuación de forma **individual**:  
