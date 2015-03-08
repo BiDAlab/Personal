@@ -66,9 +66,9 @@ Al revés que Hobbes (que creía que la libertad natural era el problema, y el E
 El Estado ocupa en el anarquismo el papel que la economía en el marxismo. Lo esencial es acabar con él, el socialismo vendrá después. Para un marxista hay que cambiar la economía, la desaparición del Estado vendrá después.  
 El sueño anarquista es: una sociedad hecha de abajo a arriba; de individuos libres y solidarios, organizados en comunas autónomas en las que la propiedad es de todos. Esas comunas se federarán entre ellas según les convenga, y siempre con carácter reversible.  
 Los métodos para lograrlo son múltiples, porque no hay una teoría anarquista (eso sería muy autoritario), pero jamás crearán partidos políticos, porque detestan la política. Por ejemplo:  
-	*	El terrorismo: si el Estado se impone por la fuerza, es legítimo usar la fuerza contra el Estado. A esto llamaron propaganda por el hecho.
-	*	El pacifismo: si el Estado es un monstruo y emplea la fuerza, hay que contestarle al revés para desarmarle: desobediencia civil, resistencia pasiva... En este sentido la educación y la cultura son esenciales.
-	*	El anarcosindicalismo: organización sindical que acabará con el Estado en una huelga general revolucionaria, y mientras llega peleará por mejoras concretas.
+ *	El terrorismo: si el Estado se impone por la fuerza, es legítimo usar la fuerza contra el Estado. A esto llamaron propaganda por el hecho.
+ *	El pacifismo: si el Estado es un monstruo y emplea la fuerza, hay que contestarle al revés para desarmarle: desobediencia civil, resistencia pasiva... En este sentido la educación y la cultura son esenciales.
+ *	El anarcosindicalismo: organización sindical que acabará con el Estado en una huelga general revolucionaria, y mientras llega peleará por mejoras concretas.
 
 ### Desde `1864`:  
 Las Internacionales.  
@@ -76,15 +76,15 @@ Son un intento de coordinar el movimiento obrero a nivel mundial para darle fuer
 
 #### 1ª Internacional o *AIT* `1864`-`1876`:  
 Fue un intento de unir el movimiento obrero mundial en una estrategia y una organización comunes. Acudieron todos, pero sobresalieron marxistas y anarquistas. Sus consecuencias fueron:  
-	*	La falta absoluta de entendimiento entre marxismo y anarquismo generó la división para siempre del movimiento, y la expulsión de los anarquistas.  
-	*	Marx se impuso, y el marxismo se extendió por todos los países, dominando desde entonces el movimiento obrero.
-	*	La propuesta marxista fue la creación de partidos políticos de clase (obreros) que lucharan por la revolución comunista, sin colaborar con los partidos burgueses, aunque fueran progresistas. El objetivo no es ganar las elecciones, sino el socialismo, la dictadura del proletariado. Serán los llamados Partidos Socialistas, de los que el más famoso será el alemán. En España es el PSOE.  
+ *	La falta absoluta de entendimiento entre marxismo y anarquismo generó la división para siempre del movimiento, y la expulsión de los anarquistas.  
+ *	Marx se impuso, y el marxismo se extendió por todos los países, dominando desde entonces el movimiento obrero.
+ *	La propuesta marxista fue la creación de partidos políticos de clase (obreros) que lucharan por la revolución comunista, sin colaborar con los partidos burgueses, aunque fueran progresistas. El objetivo no es ganar las elecciones, sino el socialismo, la dictadura del proletariado. Serán los llamados Partidos Socialistas, de los que el más famoso será el alemán. En España es el PSOE.  
 
 #### 2ª Internacional `1889`-`1914`:  
 Sólo acuden los marxistas, Marx ya ha muerto. El marxismo se divide en dos ramas: 1) los que creen que Marx tenía razón y hay que hacer la revolución. 2) los que creen que no ha interpretado bien la Historia, y no ven necesario destruir el liberalismo, sino empujarlo hacia la izquierda, a mayores cotas de justicia (Bernstein).  
 Eso hace que los marxistas se dividan para siempre en dos grupos:  
-	*	Comunistas: son los revolucionarios; se autodenominan marxistas ortodoxos. El más representativo será Lenin. Hablarán de la dictadura del proletariado como “el socialismo real” para distinguirlo del socialismo de los socialdemócratas.  
-	*	Socialdemócratas: son los reformistas. Aceptan lealmente la democracia burguesa: son partidos para participar en las elecciones, si la revolución llega, bienvenida, pero no la buscan. Todos los partidos socialistas se rompen. Del PSOE saldrá el PCE. Del partido socialista ruso saldrán los bolcheviques (comunistas) y los mencheviques (reformistas).  
+ *	Comunistas: son los revolucionarios; se autodenominan marxistas ortodoxos. El más representativo será Lenin. Hablarán de la dictadura del proletariado como “el socialismo real” para distinguirlo del socialismo de los socialdemócratas.  
+ *	Socialdemócratas: son los reformistas. Aceptan lealmente la democracia burguesa: son partidos para participar en las elecciones, si la revolución llega, bienvenida, pero no la buscan. Todos los partidos socialistas se rompen. Del PSOE saldrá el PCE. Del partido socialista ruso saldrán los bolcheviques (comunistas) y los mencheviques (reformistas).  
 
 La II Internacional rechazó oficialmente el imperialismo y la guerra.  
 Se crean símbolos que han perdurado: el himno, el 1º de mayo...  
