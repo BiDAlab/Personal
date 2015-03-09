@@ -1,9 +1,4 @@
 ## Ética social:  
-#### Índice:  
-  * [**Introducción**](#introducción)  
-  * [**Justicia**](#justicia)  
-  * [**Poder y Autoridad**](#poder-y-autoridad)  
-
 #### Introducción:  
 > Aristóteles dice que el hombre es un animal social.  
 Se refiere a que el ser humano adopta una conducta moral determinada coando está en una sociedad.  
