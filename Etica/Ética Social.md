@@ -12,6 +12,7 @@ Por tanto, es un ser moral solamente en la sociedad, ya que es necesaria la exis
 En la sociedad existen **normas sociales**, con enormes diferencias entre grupos sociales:  
   * **Leyes**: las personas que las incumplen son penadas.  
   * **Costumbres**: no está penado su inumplimiento, pero sí mal visto.  
+
 También hay **deberes morales** que cada persona se impone a sí misma mediante la **conciencia**.
 
 #### Justicia:  
@@ -20,12 +21,12 @@ También hay **deberes morales** que cada persona se impone a sí misma mediante
     * Es de orden individual, sólo te afecta a ti.  
   * **Plano del derecho**: *la justicia equivale al acuerdo (ley)*.  
     * La sanción es externa, impuesta mediante multas y penas.  
-    Es de orden colectivo, perteneciente a nuestra convivencia en sociedad (Estado).  
+    * Es de orden colectivo, perteneciente a nuestra convivencia en sociedad (Estado).  
 
 #### Poder y Autoridad:  
   * **Legal**: Leyes.  
   * **Legítimo**: [Refrendos](http://lema.rae.es/drae/?val=refrendo). Con reconocimiento de la autoridad por parte de los ciudadanos. Se obtiene por:  
-    * Carisma: Acaptación del pueblo causada por la fascinación del representante del poder.  
+    * Carisma: Aceptación del pueblo causada por la fascinación del representante del poder.  
     * Tradición: Aceptación del pueblo por la costumbre que se tiene.  
     * Ley legítima: Escogido por la ley, previamente aceptada por el pueblo.  
   * **Ilegítimo**: Impuesto, a la fuerza generalmente. Sin reconocimiento de la autoridad por parte de los ciudadanos.
