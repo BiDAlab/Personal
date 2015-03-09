@@ -16,7 +16,7 @@ En la sociedad existen **normas sociales**, con enormes diferencias entre grupos
 También hay **deberes morales** que cada persona se impone a sí misma mediante la **conciencia**.
 
 #### Justicia:  
-  * **Plano ético**: la justicia equivale a la conciencia.  
+  * **Plano ético**: *la justicia equivale a la conciencia*.  
     * La sanción es interna, de uno mismo.  
     * Es de orden individual, sólo te afecta a ti.  
   * **Plano del derecho**: *la justicia equivale al acuerdo (ley)*.  
@@ -29,4 +29,4 @@ También hay **deberes morales** que cada persona se impone a sí misma mediante
     * Carisma: Acaptación del pueblo causada por la fascinación del representante del poder.  
     * Tradición: Aceptación del pueblo por la costumbre que se tiene.  
     * Ley legítima: Escogido por la ley, previamente aceptada por el pueblo.  
-  * **Ilegítimo**: Impuseto, a la fuerza generalmente. Sin reconocimiento de la autoridad por parte de los ciudadanos.  
+  * **Ilegítimo**: Impuesto, a la fuerza generalmente. Sin reconocimiento de la autoridad por parte de los ciudadanos.
