@@ -1,41 +1,19 @@
 ## El Imperialismo:  
-
-### Índice:  
-  * [Cronología](#cronología-y-protagonistas)  
-  * [Vocabulario](#vocabulario)  
-  * [Causas](#causas)  
-  * [Oposición al Imperialismo](#oposición-al-imperialismo)  
-  * [Relaciones Internacionales](#relaciones-internacionales)
-  * [Imperios](#imperios):
-    * [Inglaterra](#gran-bretaña)  
-    * [Francia](#francia)  
-    * [Alemania](#alemania)  
-    * [Italia](#italia)  
-    * [Bélgica](#bélgica)  
-    * [España](#españa)  
-    * [Portugal](#portugal)  
-    * [Holanda](#holanda)  
-    * [Estados Unidos](#eeuu)  
-    * [Japón](#japón)  
-    * [Rusia](#rusia)
-
----  
-
 ### Cronología y protagonistas:  
 **Se desarrolló entre los años `1870` y `1914`**.  
 Los países colonizadores son:  
-  *	[**Europeos**](#gran-bretaña):  
-    - [x] [**Inglaterra**:](#gran-bretaña) etapa victoriana.  
-    - [x] [**Francia**:](#francia) Tercera República.  
-    - [x] [**Alemania**:](#alemania) Segundo Reich, gobierno de Bismark.  
-    - [x] [**Italia**:](#italia) unificada.  
-    - [x] [**Bélgica**](#bélgica)  
-    - [ ] [**España**](#españa)  
-    - [ ] [**Portugal**](#portugal)  
-    - [ ] [**Holanda**](#holanda)  
-  *	[**Estados Unidos**](#eeuu)  
-  *	[**Japón**](#japón)  
-  *	[**Rusia**](#rusia)  
+  *	**Europeos**:  
+    - [x] **Inglaterra**: etapa victoriana.  
+    - [x] **Francia**: Tercera República.  
+    - [x] **Alemania**: Segundo Reich, gobierno de Bismark.  
+    - [x] **Italia**: unificada.  
+    - [x] **Bélgica**  
+    - [ ] **España**  
+    - [ ] **Portugal**  
+    - [ ] **Holanda**  
+  *	**Estados Unidos**  
+  *	**Japón**  
+  *	**Rusia**  
 
 ### Vocabulario:  
   * **Dominio**: Zonas de inmigración europea, que tienen cultura e instituciones europeas. El control de la metrópoli sobre ellos no es conflictivo, ya que la población se siente unida a la metrópoli. *Canadá*  
@@ -51,7 +29,7 @@ La motivación principal del colonialismo es la economía, pero también influye
 
 ### Oposición al Imperialismo:  
 Procede de los propios países **colonizadores** y de los **colonizados**.
-  * Países colonizadores: Se opone la [2ª Internacional](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Movimiento%20Obrero.md#2%C2%AA-internacional-1889-1914) que hace un manifiesto oficial condenando el imperialismo. Esto lo hacen tanto los socialdemócratas como los comunistas. Lenin cree que el imperialismo sólo esconde ambiciones propias del capitalismo monopolista, y que lleva directamente a la guerra mundial. También se opone parte de la extrema derecha que opina que el imperialismo distrae esfuerzos que deben centrarse en la Nación.  
+  * Países colonizadores: Se opone la 2ª Internacional que hace un manifiesto oficial condenando el imperialismo. Esto lo hacen tanto los socialdemócratas como los comunistas. Lenin cree que el imperialismo sólo esconde ambiciones propias del capitalismo monopolista, y que lleva directamente a la guerra mundial. También se opone parte de la extrema derecha que opina que el imperialismo distrae esfuerzos que deben centrarse en la Nación.  
   * Países colonizados:  
     * Hay una resistencia a la colonización, que puede ser activa o pasiva: China (culto al pasado, xenofobia, boicots).  
     * Revueltas desorganizadas en forma de incidentes o guerras. Sobre todo en Asia. Tienen un tinte religioso contra los misioneros cristianos que amenzan culturas. El islam resucita el concepto de guerra santa.  
@@ -68,8 +46,6 @@ Las zonas de mayor enfrentamiento son:
   * **África**: Congo, Sudáfrica, Madagascar y Tanzania.  
 
 ### Imperios:
-![](https://upload.wikimedia.org/wikipedia/commons/4/45/World_1914_empires_colonies_territory.PNG)  
-
 #### Gran Bretaña:  
   * **Los dominios**: Canadá, Sudáfrica, Australia y Nueva Zelanda  
   * **Las colonias del Antiguo Régimen**:  
@@ -88,8 +64,6 @@ Las zonas de mayor enfrentamiento son:
     * África:  
       * Unión del Cairo con El Cabo, siguiendo el Nilo: Egipto, Sudán, Uganda, Kenia (y por los grandes lagos): Zambia, Zimbabwe, Bostwana, Sudáfrica.  
       * Posiciones en el golfo de Guinea: Ghana, Nigeria.  
-  
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/British_Empire_1921.png/800px-British_Empire_1921.png)  
 
 #### Francia:  
   * **Las colonias del Antiguo Régimen**:  
@@ -104,8 +78,6 @@ Las zonas de mayor enfrentamiento son:
     * Indochina: Vietnam, Laos, Camboya.  
     * Oceanía: Nueva Caledonia, Islas Marquesas.  
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6b/France_colonial_Empire10.png)  
-
 #### Alemania:  
   * **África**. Posiciones estratégicas en:  
     * El golfo de Guinea: Togo, Camerún.  
@@ -113,34 +85,22 @@ Las zonas de mayor enfrentamiento son:
     * Grandes lagos: Ruanda, Burundi.  
   * **Pacífico**: Carolinas, Marianas, Palao, Marshall, Bismarck.  
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8c/German_colonial.PNG)  
-
 #### Italia:  
   * **África**: Libia, Somalia italiana, Eritrea.  
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Italian_empire_1914.png)  
-
 #### Bélgica:  
   * **África**: Congo belga.  
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/17/Belgian_colonial_empire.png)
 
 #### España:  
   * **Pérdida de Asia y América**.  
   * Conserva **África**: Canarias, Marruecos, Sáhara y Guinea Ecuatorial.  
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Spain_in_1898.png)
-
 #### Portugal:  
   * **África y el Atlántico**: Azores, Madeira, Cabo Verde, Guinea, Angola, Mozambique.  
-
-![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Portuguese_Empire_20th_century.png)
 
 #### Holanda:  
   * **Asia**: Indonesia.  
   * **América**: Guayana Holandesa.  
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dutch_Empire_preWWII.PNG)
 
 #### EEUU:  
   * **La conquista de su propio territorio**:  
@@ -155,8 +115,6 @@ Las zonas de mayor enfrentamiento son:
   * **Comunicación entre océanos**:  
     * Canal de Panamá y control de hispanoamérica.  
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Empire1.PNG)
-
 #### Japón:  
   * **Costa asiática**:  
     * Kuriles + sur de Sajalín (1904)  
@@ -165,11 +123,7 @@ Las zonas de mayor enfrentamiento son:
     * Corea  
     * Manchuria (1931)  
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Japanese_Empire_%28orthographic_projection%29.svg)
-
 #### Rusia:  
   * **Europa**: Estonia, Letonia, Lituania, Bielorrusia, Ucrania, Moldavia.  
   * **Caúcaso**: Georgia, Armenia, Azerbaiyán.  
   * **El Turquestán**: Kajastán, Uzbekistán, Turkmenistán, Tayikistán, Kirguistán.  
-
-![](http://2.bp.blogspot.com/_Y9-xi5n9m3E/TPZSXrj_iDI/AAAAAAAAHmQ/OrasghvMeTg/s1600/Imperio_Ruso_zenith.png)
