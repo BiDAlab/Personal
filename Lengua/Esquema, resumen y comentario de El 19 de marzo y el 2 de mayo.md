@@ -1,19 +1,4 @@
-Esquema, resumen y comentario de ***El 19 de marzo y el 2 de mayo***
-=======
-Índice de contenidos:
------------
-- [ ] Estructura cronológica  y resumen:
-    * El Motín de Aranjuez:
-      + Antes del motín de Aranjuez
-      + Motín de Aranjuez *(de la noche del 17 a la del 19 de marzo de 1808)*
-    * Días 2 y 3 de mayo de 1808:
-      + Antes del 2 de Mayo
-      + El lunes, 2 de mayo de 1808
-      + El amanecer del martes 3 de mayo
-- [ ] Comentario
-
-*****
-
+# Esquema, resumen y comentario de ***El 19 de marzo y el 2 de mayo***
 ### Estructura cronológica  y resumen:
 #### El Motín de Aranjuez:
 ##### Antes del motín de Aranjuez:
@@ -58,7 +43,7 @@ El asalto a la casa de Godoy. La alegría de Santurrias y la desesperación de D
 
 > **Viernes, 19 de marzo.**
 
->Detención de Godoy en su palacio. Es trasladado a un acuartelamiento soportando diversos intentos de linchamiento.
+> Detención de Godoy en su palacio. Es trasladado a un acuartelamiento soportando diversos intentos de linchamiento.
 ### Capítulo XII:
 Llegada de Godoy al cuartel y descalabradura de Santurrias. Don Celestino va a consolar a Godoy en su prisión.
 ### Capítulo XIII:
@@ -71,7 +56,7 @@ Llegada de Godoy al cuartel y descalabradura de Santurrias. Don Celestino va a c
 > ### Capítulo XIV:
 **Sábado, 20 de marzo.**
 
->Gabriel vuelve a Madrid, a su pensión de la calle San José, nº 12, frente al Parque Monteleón.
+> Gabriel vuelve a Madrid, a su pensión de la calle San José, nº 12, frente al Parque Monteleón.
 
 > Gabriel investiga la casa y la calaña de los Requejo y llega a las peores conclusiones. Decide sacar a Inés de allí empleándose en casa de los Requejo.
 ### Capítulo XV:
