@@ -1,20 +1,4 @@
 ## El movimiento obrero:  
-### Índice:  
- *	[**Hasta `1848`**](#hasta-1848):  
- 	*	[Reacción destructiva](#reacción-destructiva)  
- 	*	[Reacción asociativa](#asociacionismo):  
- 		*	Mutualista  
- 		*	Reivindicativa  
- *	[**Desde `1848` hasta `1864`**](#desde-1848-hasta-1864): Ruptura con la burguesía → Creación de **ideologías alternativas**:  
- 	*	[Socialismo utópico](#socialismo-utópico)  
- 	*	[Marxismo](#el-marxismo)  
- 	*	[Anarquismo](#el-anarquismo)  
- *	[**Desde `1864`**](#desde-1864): Articulación mundial del movimiento obrero → **Las Internacionales**:  
- 	*	[1ª Internacional ***(AIT)***](#1ª-internacional-o-ait-1864-1876): Reúne a todos los socialismos.  
- 	*	[2ª Internacional](#2ª-internacional-1889-1914): Sólo van los marxistas.  
- 	*	[3ª Internacional ***(Komintern)***](#3ª-internacional-o-komintern-1919-1943): Sólo van los marxistas revolucionarios (comunistas)  
-
----
 ### Hasta `1848`:  
 Se actúa sin entender lo que ocurre, espontáneamente.
 
