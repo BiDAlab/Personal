@@ -24,7 +24,7 @@ También hay **deberes morales** que cada persona se impone a sí misma mediante
 
 #### Poder y Autoridad:  
   * **Legal**: Leyes.  
-  * **Legítimo**: [Refrendos](lema.rae.es/drae/?val=refrendo). Con reconocimiento de la autoridad por parte de los ciudadanos. Se obtiene por:  
+  * **Legítimo**: [Refrendos](http://lema.rae.es/drae/?val=refrendo). Con reconocimiento de la autoridad por parte de los ciudadanos. Se obtiene por:  
     * Carisma: Acaptación del pueblo causada por la fascinación del representante del poder.  
     * Tradición: Aceptación del pueblo por la costumbre que se tiene.  
     * Ley legítima: Escogido por la ley, previamente aceptada por el pueblo.  
