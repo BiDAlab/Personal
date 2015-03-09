@@ -1,0 +1,1 @@
+## Política Exterior de Bismark:  
