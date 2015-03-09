@@ -22,4 +22,6 @@ Repositorio de trabajos personales.
     * Episodios Nacioneles:
       - [x] [El 19 de marzo y el 2 de mayo](https://github.com/KaliNuska/Personal/blob/master/Lengua/Esquema%2C%20resumen%20y%20comentario%20de%20El%2019%20de%20marzo%20y%20el%202%20de%20mayo.md#esquema-resumen-y-comentario-de-el-19-de-marzo-y-el-2-de-mayo)
   * **Tecnología**:
-    - [x] [Circuitos integrados](https://github.com/KaliNuska/Personal/blob/master/Tecnologia/Integrated%20Circuits%2074%20equivalence%20to%2040%20series.md#integrated-digital-circuits-tll-equivalence-74-series-to-40)
+    - [x] [Circuitos integrados](https://github.com/KaliNuska/Personal/blob/master/Tecnologia/Integrated%20Circuits%2074%20equivalence%20to%2040%20series.md#integrated-digital-circuits-tll-equivalence-74-series-to-40)  
+  * **Ética**:
+    - [x] [Ética Social](https://github.com/KaliNuska/Personal/blob/master/Etica/%C3%89tica%20Social.md#%C3%89tica-social)
