@@ -12,11 +12,16 @@ Repositorio de trabajos personales.
       - [x] [Sistemas de inecuaciones con una incógnita](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Sistemas%20de%20inecuaciones%20con%20una%20inc%C3%B3gnita.md#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
       - [x] [Sistemas de inecuaciones con dos incógnitas](https://github.com/KaliNuska/Personal/blob/master/Inecuaciones/Sistemas%20de%20inecuaciones%20con%20dos%20inc%C3%B3gnitas.md#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
   * **Historia**:
-    - [x] [Segunda Revolución Industrial](https://github.com/KaliNuska/Personal/blob/master/Historia/Segunda%20Revoluci%C3%B3n%20Industrial.md#segunda-revoluci%C3%B3n-industrial)
-    - [ ] [Movimiento Obrero](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Movimiento%20Obrero.md#el-movimiento-obrero)
-    - [x] [El Imperialismo](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Imperialismo.md#el-imperialismo)
-    - [ ] [Política Exterior de Bismark](https://github.com/KaliNuska/Personal/blob/master/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md#pol%C3%ADtica-exterior-de-bismark)
-    - [ ] [Primera Guerra Mundial](https://github.com/KaliNuska/Personal/blob/master/Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)
+    - [x] [Segunda Revolución Industrial](https://github.com/KaliNuska/Personal/blob/master/Historia/Segunda%20Revoluci%C3%B3n%20Industrial.md#segunda-revoluci%C3%B3n-industrial)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Segunda Revolución Industrial.md)  
+    - [x] [Movimiento Obrero](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Movimiento%20Obrero.md#el-movimiento-obrero)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/El%20Movimiento%20Obrero.md)  
+    - [x] [El Imperialismo](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Imperialismo.md#el-imperialismo)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/El%20Imperialismo.md)  
+    - [x] [Política Exterior de Bismark](https://github.com/KaliNuska/Personal/blob/master/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md#pol%C3%ADtica-exterior-de-bismark)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md)  
+    - [ ] [Primera Guerra Mundial](https://github.com/KaliNuska/Personal/blob/master/Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)  
+    [*Versión PDF*]()  
   * **Biología y Geología**:
     - [x] [Problemas de genética](https://github.com/KaliNuska/Personal/blob/master/Genetica/Problemas%20de%20gen%C3%A9tica.md#recopilaci%C3%B3n-de-problemas-de-gen%C3%A9tica-resueltos)
   * **Lengua y Literatura**:
