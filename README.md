@@ -18,6 +18,7 @@ Repositorio de trabajos personales.
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/El%20Movimiento%20Obrero.md)  
     - [x] [El Imperialismo](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Imperialismo.md#el-imperialismo)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/El%20Imperialismo.md)  
+    - [ ] [Reparto de África](https://github.com/KaliNuska/Personal/blob/master/Historia/El%20Reparto%20de%20%C3%81frica.md#reparto-de-%C3%81frica)  
     - [x] [Política Exterior de Bismark](https://github.com/KaliNuska/Personal/blob/master/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md#pol%C3%ADtica-exterior-de-bismark)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md)  
     - [ ] [Primera Guerra Mundial](https://github.com/KaliNuska/Personal/blob/master/Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)  
