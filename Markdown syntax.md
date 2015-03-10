@@ -1,15 +1,9 @@
-Welcome to StackEdit!
-===================
-
-
+# Welcome to StackEdit!
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
 ----------
 
-
-Documents
--------------
-
+## Documents
 StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
 
 > **Note:**
@@ -44,8 +38,7 @@ You can save the current document to a file by clicking <i class="icon-hdd"></i>
 ----------
 
 
-Synchronization
--------------------
+## Synchronization
 
 StackEdit can be combined with <i class="icon-provider-gdrive"></i> **Google Drive** and <i class="icon-provider-dropbox"></i> **Dropbox** to have your documents saved in the *Cloud*. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.
 
@@ -80,8 +73,7 @@ Since one document can be synchronized with multiple locations, you can list and
 ----------
 
 
-Publication
--------------
+## Publication
 
 Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **Tumblr**, **WordPress** and on any SSH server.
 
@@ -110,8 +102,7 @@ Since one document can be published on multiple locations, you can list and mana
 ----------
 
 
-Markdown Extra
---------------------
+## Markdown Extra
 
 StackEdit supports **Markdown Extra**, which extends **Markdown** syntax with some nice features.
 
