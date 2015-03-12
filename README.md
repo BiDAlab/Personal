@@ -10,7 +10,8 @@ Repositorio de trabajos personales.
       - [x] [Inecuaciones de segundo grado](./Matematicas/Inecuaciones%20de%20segundo%20grado.md#resoluci%C3%B3n-de-inecuaciones-de-segundo-grado)
       - [x] [Inecuaciones racionales](./Matematicas/Inecuaciones%20racionales.md#resolver-inecuaciones-racionales)
       - [x] [Sistemas de inecuaciones con una incógnita](./Matematicas/Sistemas%20de%20inecuaciones%20con%20una%20inc%C3%B3gnita.md#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-una-inc%C3%B3gnita)
-      - [x] [Sistemas de inecuaciones con dos incógnitas](./Matematicas/Sistemas%20de%20inecuaciones%20con%20dos%20inc%C3%B3gnitas.md#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)
+      - [x] [Sistemas de inecuaciones con dos incógnitas](./Matematicas/Sistemas%20de%20inecuaciones%20con%20dos%20inc%C3%B3gnitas.md#resoluci%C3%B3n-de-sistemas-de-inecuaciones-con-dos-inc%C3%B3gnitas)  
+    - [ ] [Vectores y Rectas](./Matematicas/Vectores y Rectas.md#apuntes-de-vectores-y-rectas)  
   * **Historia**:
     - [x] [Segunda Revolución Industrial](./Historia/Segunda%20Revoluci%C3%B3n%20Industrial.md#segunda-revoluci%C3%B3n-industrial)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Segunda Revolución Industrial.md)  
