@@ -221,7 +221,6 @@ La solución a este sistema de inecuaciones con dos incógnitas se obtiene con l
     `2x + y ≤ 3`  
     `2 · 0 + 0 ≤ 3`  
     **`0 ≤ 3`** → **Sí**  
-    ![](http://www.vitutor.org/ecuaciones/ine/images/28.gif)  
 2.  Resolver la segunda inecuación de forma **individual**:  
     1.  Transformar la desigualdad en igualdad:  
     `x + y = 1`  
@@ -240,6 +239,5 @@ La solución a este sistema de inecuaciones con dos incógnitas se obtiene con l
     `x + y ≥ 1`  
     `0 + 0 ≥ 1`  
     **`0 ≥ 1`** → **No**  
-    ![](http://www.vitutor.org/ecuaciones/ine/images/31.gif "Semiplano solución")  
 3.  La solución es la intersección de las regiones soluciones:  
 ![](http://www.vitutor.org/ecuaciones/ine/images/32.gif)
