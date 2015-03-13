@@ -231,12 +231,15 @@ La solución a este sistema de inecuaciones con dos incógnitas se obtiene con l
     `y = 1`  
     **`(0, 1)`**  
     `x = 1`  
-    *`1 + y = 1`*  
+    *`1 + y = 1`*
     `y = 0`  
     **`(1, 0)`**  
-    3.  Representar y unir estos puntos para obtener una recta.  
+    3.  Representar y unir estos puntos para obtener una recta:  
+    ![](http://www.vitutor.org/ecuaciones/ine/images/31_0.gif "Recta")  
     4.  Tomar un punto y sustituirlo en la desigualdad. Si se cumple, la solución es el semiplano donde se encuentra el punto, si no la solución será el otro semiplano:  
     `x + y ≥ 1`  
     `0 + 0 ≥ 1`  
     **`0 ≥ 1`** → **No**  
-3.  La solución es la intersección de las regiones soluciones.  
+    ![](http://www.vitutor.org/ecuaciones/ine/images/31.gif "Semiplano solución")  
+3.  La solución es la intersección de las regiones soluciones:  
+![](http://www.vitutor.org/ecuaciones/ine/images/32.gif "Solución")
