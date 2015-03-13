@@ -2,49 +2,40 @@
 ## Inecuaciones
 Una **inecuación** es una **desigualdad algebraica** en la que sus dos miembros aparecen ligados por uno de estos signos:  
 > `<` menor que `2x − 1 < 7`  
-> `≤` menor o igual que `2x − 1 ≤ 7`  
-> `>` mayor que `2x − 1 > 7`  
-> `≥` mayor o igual que `2x − 1 ≥ 7`  
+`≤` menor o igual que `2x − 1 ≤ 7`  
+`>` mayor que `2x − 1 > 7`  
+`≥` mayor o igual que `2x − 1 ≥ 7`  
 
 La **solución** de una inecuación es el **conjunto de valores de la variable que verifica la inecuacíón**.  
 
-Podemos expresar la solución de la inecuación mediante:
- 1.  **Una representación gráfica**
- 2.  **Un intervalo**
+Podemos expresar la solución de la inecuación mediante:  
+	1.	**Una representación gráfica**  
+	2.	**Un intervalo**  
 
 ### Ejemplos:
- * `2x − 1 < 7`  
- `2x < 8`  
- `x < 4`  
- !["Ejemplo 1"](http://www.vitutor.org/ecuaciones/ine/images/1.gif)  
- *Sol:* **(-∞, 4)**  
- * `2x − 1 ≤ 7`
-   
-   `2x ≤ 8`
-   
-   `x ≤ 4`
-   
-   !["Ejemplo 2"](http://www.vitutor.org/ecuaciones/ine/images/3.gif)
-   
-   *Sol:* **(-∞, 4]**
- * `2x − 1 > 7`
-   
-   `2x > 8`
-   
-   `x > 4`
-   
-   !["Ejemplo 3"](http://www.vitutor.org/ecuaciones/ine/images/2.gif)
-   
-   *Sol:* **(4, +∞)**
- * `2x − 1 ≥ 7`
-   
-   `2x ≥ 8`
-   
-   `x ≥ 4`
-   
-   !["Ejemplo 4"](http://www.vitutor.org/ecuaciones/ine/images/4.gif)
-   
-   *Sol:* **[4, ∞)**  
+>*	`2x − 1 < 7`  
+`2x < 8`  
+`x < 4`  
+!["Ejemplo 1"](http://www.vitutor.org/ecuaciones/ine/images/1.gif)  
+*Sol:* **(-∞, 4)**  
+
+*	`2x − 1 ≤ 7`  
+`2x ≤ 8`  
+`x ≤ 4`  
+!["Ejemplo 2"](http://www.vitutor.org/ecuaciones/ine/images/3.gif)  
+*Sol:* **(-∞, 4]**  
+
+* `2x − 1 > 7`  
+`2x > 8`  
+`x > 4`  
+!["Ejemplo 3"](http://www.vitutor.org/ecuaciones/ine/images/2.gif)  
+*Sol:* **(4, +∞)**  
+
+* `2x − 1 ≥ 7`  
+`2x ≥ 8`  
+`x ≥ 4`  
+!["Ejemplo 4"](http://www.vitutor.org/ecuaciones/ine/images/4.gif)  
+*Sol:* **[4, ∞)**  
 
 ## Propiedades de las inecuaciones:
 **Criterios de equivalencia**:
@@ -77,29 +68,18 @@ Considerando la inecuación:
 !["Inecuación"](http://www.vitutor.org/ecuaciones/ine/images/5.gif)  
 La podremos resolver mediante los siguientes pasos:  
 
->  1.  Quitar corchetes:  
-!["Paso 1"](http://www.vitutor.org/ecuaciones/ine/images/6.gif)  
-
->  2.  Quitar paréntesis:  
-!["Paso 2"](http://www.vitutor.org/ecuaciones/ine/images/7.gif)  
-
->  3.  Quitar denominadores:  
-!["Paso 3.1"](http://www.vitutor.org/ecuaciones/ine/images/8.gif)  
-!["Paso 3.2"](http://www.vitutor.org/ecuaciones/ine/images/9.gif)  
-
->  4.  Agrupar los términos en x:  
+>1.  Quitar corchetes  
+2.  Quitar paréntesis  
+3.  Quitar denominadores  
+4.  Agrupar los términos en x:  
 !["Paso 4"](http://www.vitutor.org/ecuaciones/ine/images/10.gif)  
-
->  5.  Efectuar las operaciones:  
+5.  Efectuar las operaciones:  
 !["Paso 5](http://www.vitutor.org/ecuaciones/ine/images/11.gif)  
-
->  6.  Como el coeficiente de la x es **negativo** multiplicamos por −1, por lo que cambiará el sentido de la desigualdad:  
+6.  Como el coeficiente de la x es **negativo** multiplicamos por −1, por lo que cambiará el sentido de la desigualdad:  
 !["Paso 6"](http://www.vitutor.org/ecuaciones/ine/images/12.gif)  
-
->  7.  Despejar la incógnita:  
+7.  Despejar la incógnita:  
 !["Paso 7"](http://www.vitutor.org/ecuaciones/ine/images/13.gif "Paso 7: Despejar la incógnita")  
-
->  8.  Obtenemos la solución como una **desigualdad**, pero podemos expresarla:  
+8.  Obtenemos la solución como una **desigualdad**, pero podemos expresarla:  
   * De forma gráfica:  
   !["Paso 8.1"](http://www.vitutor.org/ecuaciones/ine/images/14.gif)
   * Como intervalo:  
