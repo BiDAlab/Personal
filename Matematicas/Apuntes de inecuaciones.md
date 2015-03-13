@@ -9,8 +9,8 @@ Una **inecuación** es una **desigualdad algebraica** en la que sus dos miembros
 La **solución** de una inecuación es el **conjunto de valores de la variable que verifica la inecuacíón**.  
 
 Podemos expresar la solución de la inecuación mediante:  
-> * **Una representación gráfica**
-* **Un intervalo**  
+  * **Una representación gráfica**
+  * **Un intervalo**
 
 ### Ejemplos:
 >*	`2x − 1 < 7`  
