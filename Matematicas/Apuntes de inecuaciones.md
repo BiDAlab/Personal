@@ -191,10 +191,14 @@ Tomaremos como ejemplo la inecuación:
 
 ## Resolución de sistemas de inecuaciones con una incógnita:  
 Para resolver un sistema de dos inecuaciones con una sola incógnita, has de seguir estos pasos:  
-> 1.  Resolver cada inecuación de forma **independiente**:   
+![](http://www.vitutor.org/ecuaciones/ine/images/15.gif "Sistema de inecuaciones")  
+> 1.  Resolver cada inecuación de forma **independiente**:  
+![](http://www.vitutor.org/ecuaciones/ine/images/16.gif "Inecuación superior")  
+![](http://www.vitutor.org/ecuaciones/ine/images/17.gif "Inecuación inferior")  
 2.  Se representan los intervalos solución de cada una de las inecuaciones en la Recta Real.  
   La solución del sistema será el conjunto de puntos que **compartan** los resultados de las inecuaciones:  
-  *Sol:* **`[−1, 3]`**  
+![](http://www.vitutor.org/ecuaciones/ine/images/19.gif "Intervalos y solución")  
+*Sol:* **`[−1, 3]`**  
 
 ## Resolución de sistemas de inecuaciones con dos incógnitas:
 La solución a este sistema de inecuaciones con dos incógnitas se obtiene con los siguientes pasos:  
