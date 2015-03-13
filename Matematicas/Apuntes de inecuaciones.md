@@ -19,19 +19,19 @@ Podemos expresar la solución de la inecuación mediante:
 !["Ejemplo 1"](http://www.vitutor.org/ecuaciones/ine/images/1.gif)  
 *Sol:* **(-∞, 4)**  
 
-*	`2x − 1 ≤ 7`  
+>*	`2x − 1 ≤ 7`  
 `2x ≤ 8`  
 `x ≤ 4`  
 !["Ejemplo 2"](http://www.vitutor.org/ecuaciones/ine/images/3.gif)  
 *Sol:* **(-∞, 4]**  
 
-* `2x − 1 > 7`  
+>* `2x − 1 > 7`  
 `2x > 8`  
 `x > 4`  
 !["Ejemplo 3"](http://www.vitutor.org/ecuaciones/ine/images/2.gif)  
 *Sol:* **(4, +∞)**  
 
-* `2x − 1 ≥ 7`  
+>* `2x − 1 ≥ 7`  
 `2x ≥ 8`  
 `x ≥ 4`  
 !["Ejemplo 4"](http://www.vitutor.org/ecuaciones/ine/images/4.gif)  
