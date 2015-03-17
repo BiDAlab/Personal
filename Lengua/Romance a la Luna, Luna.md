@@ -9,6 +9,8 @@ Esta obra está incluida en un libro de romances escrito por Federico García Lo
 | El niño la mira, mira.           | El jinete se acercaba         |
 | El niño la está mirando          | tocando el tambor del llano   |
 |                                  |                               |
+| En el aire conmovido               mueve la luna sus brazos        y enseña, lúbrica y pura,                                   sus senos de duro estaño | Dentro de la fragua                           el niño tiene los ojos cerrados.             Por el olivar venían,                      bronce y sueño los gitanos. |
+
 >La luna vino a la fragua  
 con su polisón de nardos.  
 El niño la mira, mira.  
