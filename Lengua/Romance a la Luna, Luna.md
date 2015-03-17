@@ -2,65 +2,46 @@
 Esta obra está incluida en un libro de romances escrito por Federico García Lorca: ***Romancero gitano***. Fue publicado en 1928 y los temas principales que incluye son la noche, la muerte, el cielo y la Luna; todos relacionados con la cultura gitana, que apasiona al autor. Sus obras reflejan las penas de un pueblo perseguido por la autoridad, que vive al margen de la sociedad de la época.
 
 ## Romance:  
-| Romance a la Luna, Luna:         | Federico García Lorca         |
-| :------------------------------: |:-----------------------------:|
-| La luna vino a la fragua         | Niño, déjame, no pises        |
-| con su polisón de nardos.        | Mi blancor almidonado.        |
-| El niño la mira, mira.           | El jinete se acercaba         |
-| El niño la está mirando          | tocando el tambor del llano   |
-|                                  |                               |
-| En el aire conmovido               mueve la luna sus brazos        y enseña, lúbrica y pura,                                   sus senos de duro estaño | Dentro de la fragua                           el niño tiene los ojos cerrados.             Por el olivar venían,                      bronce y sueño los gitanos. |
-
 >La luna vino a la fragua  
 con su polisón de nardos.  
 El niño la mira, mira.  
 El niño la está mirando.  
-
->En el aire conmovido  
+En el aire conmovido  
 mueve la luna sus brazos  
 y enseña, lúbrica y pura,  
 sus senos de duro estaño.  
-
->Huye luna, luna, luna.  
+Huye luna, luna, luna.  
 Si vinieran los gitanos,  
 harían con tu corazón  
 collares y anillos blancos.  
-
->Niño, déjame que baile.  
+Niño, déjame que baile.  
 Cuando vengan los gitanos,  
 te encontrarán sobre el yunque  
 con los ojillos cerrados.  
-
->Huye luna, luna, luna,  
+Huye luna, luna, luna,  
 que ya siento sus caballos.  
-
->Niño, déjame, no pises  
+Niño, déjame, no pises  
 mi blancor almidonado.  
-
->El jinete se acercaba  
+El jinete se acercaba  
 tocando el tambor del llano.  
 Dentro de la fragua el niño,  
 tiene los ojos cerrados.  
-
->Por el olivar venían,  
+Por el olivar venían,  
 bronce y sueño, los gitanos.  
 Las cabezas levantadas  
 y los ojos entornados.  
-
->Cómo canta la zumaya,  
+Cómo canta la zumaya,  
 ¡ay, cómo canta en el árbol!  
 Por el cielo va la luna  
 con un niño de la mano.  
-
->Dentro de la fragua lloran,  
+Dentro de la fragua lloran,  
 dando gritos los gitanos.  
 El aire vela, vela.  
 El aire la está velando.
 
 ## Comentario:  
 ### Métrica:  
-El romance que acabamos de escuchar se compone de 36 versos octosílabos que comparten entre sí musicalidad y carga semántica.  
-Tiene un enfoque épico-lírico organizado en una estructura ordenada.
+El romance que acabamos de escuchar se compone de 36 versos octosílabos que comparten entre sí musicalidad y carga semántica. Tiene un enfoque épico-lírico organizado en una estructura ordenada.
 
 ### Recursos estilísticos:  
 Federico García Lorca nos transmite en este romance, como en muchos otros, su admiración hacia la raza gitana. Emplea para ello diversos recursos estilísticos que, además embellecen el poema:  
