@@ -2,6 +2,13 @@
 Esta obra está incluida en un libro de romances escrito por Federico García Lorca: ***Romancero gitano***. Fue publicado en 1928 y los temas principales que incluye son la noche, la muerte, el cielo y la Luna; todos relacionados con la cultura gitana, que apasiona al autor. Sus obras reflejan las penas de un pueblo perseguido por la autoridad, que vive al margen de la sociedad de la época.
 
 ## Romance:  
+| Romance a la Luna, Luna:         | Federico García Lorca         |
+| :------------------------------: |:-----------------------------:|
+| La luna vino a la fragua         | Niño, déjame, no pises        |
+| con su polisón de nardos.        | Mi blancor almidonado.        |
+| El niño la mira, mira.           | El jinete se acercaba         |
+| El niño la está mirando          | tocando el tambor del llano   |
+|                                  |                               |
 >La luna vino a la fragua  
 con su polisón de nardos.  
 El niño la mira, mira.  
