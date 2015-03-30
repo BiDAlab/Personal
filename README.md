@@ -25,6 +25,9 @@ Repositorio de trabajos personales.
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md)  
     - [ ] [Primera Guerra Mundial](./Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)  
     [*Versión PDF*]()  
+  * **Química**:  
+    - [x] [Ejercicios de formulación](./Quimica/Ejercicios%20de%20formulación.md)  
+    [*Versión PDF*]()  
   * **Biología y Geología**:
     - [x] [Problemas de genética](./Genetica/Problemas%20de%20gen%C3%A9tica.md#recopilaci%C3%B3n-de-problemas-de-gen%C3%A9tica-resueltos)
   * **Lengua y Literatura**:
