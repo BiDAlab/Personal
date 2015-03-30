@@ -26,8 +26,8 @@ Repositorio de trabajos personales.
     - [ ] [Primera Guerra Mundial](./Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)  
     [*Versión PDF*]()  
   * **Química**:  
-    - [x] [Ejercicios de formulación](./Quimica/Ejercicios%20de%20formulación.md)  
-    [*Versión PDF*]()  
+    - [x] [Ejercicios de formulación](./Quimica/Ejercicios de Formulación.md#actividades-de-formulación-inorgánica)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Quimica/Ejercicios%20de%20Formulaci%C3%B3n.md)  
   * **Biología y Geología**:
     - [x] [Problemas de genética](./Genetica/Problemas%20de%20gen%C3%A9tica.md#recopilaci%C3%B3n-de-problemas-de-gen%C3%A9tica-resueltos)
   * **Lengua y Literatura**:
