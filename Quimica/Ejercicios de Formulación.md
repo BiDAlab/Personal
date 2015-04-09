@@ -18,6 +18,9 @@
 | **Fe<sub></sub> Cl<sub>2</sub>**| Dicloruro de hierro      | Cloruro de hierro *(II)*     |
 | **S<sub></sub> F<sub>6</sub>**  | Hexafluoruro de azufre   | Fluoruro de azufre *(VI)*    |
 | **Ni<sub></sub> S<sub></sub>**  | Sulfuro de níquel        | Sulfuro de níquel *(II)*     |
+
+|            Compuesto            | Nomenclatura Sistemática |      Nomenclatura Stock      |
+|--------------------------------:|:-------------------------|:-----------------------------|
 | **Ba<sub></sub> Br<sub>2</sub>**| Dibromuro de bario       | Bromuro de bario             |
 | **Cs<sub>2</sub> O<sub></sub>** | Óxido de dicesio         | Óxido de cesio               |
 | **Cl<sub>2</sub> O<sub>5</sub>**| Pentaóxido de dicloro    | Óxido de cloro *(V)*         |
