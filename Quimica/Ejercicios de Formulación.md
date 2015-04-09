@@ -1,3 +1,4 @@
+### Compuestos Binarios:  
 |        Compuesto Binario        | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |--------------------------------:|:-------------------------|:-----------------------------|
 | **N<sub></sub> H<sub>3</sub>**  | Trihidruro de nitrógeno  | Hidruro de nitrógeno *(III)* |
@@ -21,16 +22,18 @@
 | **Cl<sub>2</sub> O<sub>5</sub>**| Pentaóxido de dicloro    | Óxido de cloro *(V)*         |
 | **Br<sub>2</sub> O<sub></sub>** | Óxido de dibromo         | Óxido de bromo *(I)*         |
 | **Ca<sub>3</sub> P<sub>2</sub>**| Difosfuro de tricalcio   | Fosfuro de calcio            |
-| **Co<sub></sub> H<sub>3</sub>** | Trihidruro de cobalto    | Hidruro de cobalto *(III)*   |
 
+### Compuestos Binarios:  
 |        Compuesto Binario        | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |--------------------------------:|:-------------------------|:-----------------------------|
+| **Co<sub></sub> H<sub>3</sub>** | Trihidruro de cobalto    | Hidruro de cobalto *(III)*   |
 | **Au<sub></sub> As<sub></sub>** | Arseniuro de oro         | Arseniuro de oro *(III)*     |
 | **K<sub>2</sub> O<sub>2</sub>** | Dióxido de dipotasio     | Peróxido de potasio          |
 | **Mg<sub></sub> O<sub>2</sub>** | Dióxido de magnesio      | Peróxido de magnesio         |
 | **H<sub>2</sub> S<sub></sub>**  | *Ácido sulfhídrico*      | Sulfuro de hidrógeno         |
 | **H<sub></sub> Cl<sub></sub>**  | *Ácido clorhídrico*      | Cloruro de hidrógeno         |
 
+### Compuestos Ternarios:  
 |        Compuesto Ternario        | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |---------------------------------:|:-------------------------|:-----------------------------|
 | **Pb<sub></sub> OH<sub>4</sub>** | Tetrahidróxido de plomo  | Hidróxido de plomo *(IV)*    |
