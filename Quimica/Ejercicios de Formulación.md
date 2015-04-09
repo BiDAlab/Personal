@@ -23,10 +23,6 @@
 | **Br<sub>2</sub> O<sub></sub>** | Óxido de dibromo         | Óxido de bromo *(I)*         |
 | **Ca<sub>3</sub> P<sub>2</sub>**| Difosfuro de tricalcio   | Fosfuro de calcio            |
 | **Co<sub></sub> H<sub>3</sub>** | Trihidruro de cobalto    | Hidruro de cobalto *(III)*   |
-
-### Compuestos Binarios:  
-|        Compuesto Binario        | Nomenclatura Sistemática |      Nomenclatura Stock      |
-|--------------------------------:|:-------------------------|:-----------------------------|
 | **Au<sub></sub> As<sub></sub>** | Arseniuro de oro         | Arseniuro de oro *(III)*     |
 | **K<sub>2</sub> O<sub>2</sub>** | Dióxido de dipotasio     | Peróxido de potasio          |
 | **Mg<sub></sub> O<sub>2</sub>** | Dióxido de magnesio      | Peróxido de magnesio         |
