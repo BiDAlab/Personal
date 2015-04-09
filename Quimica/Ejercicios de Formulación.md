@@ -20,11 +20,11 @@
 | **Ni<sub></sub> S<sub></sub>**  | Sulfuro de níquel        | Sulfuro de níquel *(II)*     |
 | **Ba<sub></sub> Br<sub>2</sub>**| Dibromuro de bario       | Bromuro de bario             |
 | **Cs<sub>2</sub> O<sub></sub>** | Óxido de dicesio         | Óxido de cesio               |
+| **Cl<sub>2</sub> O<sub>5</sub>**| Pentaóxido de dicloro    | Óxido de cloro *(V)*         |
+| **Br<sub>2</sub> O<sub></sub>** | Óxido de dibromo         | Óxido de bromo *(I)*         |
 
 |            Compuesto            | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |--------------------------------:|:-------------------------|:-----------------------------|
-| **Cl<sub>2</sub> O<sub>5</sub>**| Pentaóxido de dicloro    | Óxido de cloro *(V)*         |
-| **Br<sub>2</sub> O<sub></sub>** | Óxido de dibromo         | Óxido de bromo *(I)*         |
 | **Ca<sub>3</sub> P<sub>2</sub>**| Difosfuro de tricalcio   | Fosfuro de calcio            |
 | **Co<sub></sub> H<sub>3</sub>** | Trihidruro de cobalto    | Hidruro de cobalto *(III)*   |
 | **Au<sub></sub> As<sub></sub>** | Arseniuro de oro         | Arseniuro de oro *(III)*     |
