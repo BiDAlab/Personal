@@ -1,4 +1,3 @@
-## Actividades de formulación inorgánica:  
 ### Compuestos Binarios:  
 |            Compuesto            | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |--------------------------------:|:-------------------------|:-----------------------------|
