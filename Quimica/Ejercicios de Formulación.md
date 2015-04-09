@@ -30,8 +30,7 @@
 | **Mg<sub></sub> O<sub>2</sub>** | Dióxido de magnesio      | Peróxido de magnesio         |
 | **H<sub>2</sub> S<sub></sub>**  | *Ácido sulfhídrico*      | Sulfuro de hidrógeno         |
 | **H<sub></sub> Cl<sub></sub>**  | *Ácido clorhídrico*      | Cloruro de hidrógeno         |
-
-### Compuestos Ternarios:  
+ 
 |        Compuesto Ternario        | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |---------------------------------:|:-------------------------|:-----------------------------|
 | **Pb<sub></sub> OH<sub>4</sub>** | Tetrahidróxido de plomo  | Hidróxido de plomo *(IV)*    |
