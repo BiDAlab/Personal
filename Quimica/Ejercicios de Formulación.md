@@ -1,4 +1,5 @@
 ## Actividades de formulación inorgánica:  
+### Compuestos Binarios:  
 |            Compuesto            | Nomenclatura Sistemática |      Nomenclatura Stock      |
 |--------------------------------:|:-------------------------|:-----------------------------|
 | **N<sub></sub> H<sub>3</sub>**  | Trihidruro de nitrógeno  | Hidruro de nitrógeno *(III)* |
@@ -24,3 +25,15 @@
 | **Ca<sub>3</sub> P<sub>2</sub>**| Difosfuro de tricalcio   | Fosfuro de calcio            |
 | **Co<sub></sub> H<sub>3</sub>** | Trihidruro de cobalto    | Hidruro de cobalto *(III)*   |
 | **Au<sub></sub> As<sub></sub>** | Arseniuro de oro         | Arseniuro de oro *(III)*     |
+| **K<sub>2</sub> O<sub>2</sub>** | Dióxido de dipotasio     | Peróxido de potasio          |
+| **Mg<sub></sub> O<sub>2</sub>** | Dióxido de magnesio      | Peróxido de magnesio         |
+| **H<sub>2</sub> S<sub></sub>**  | *Ácido sulfhídrico*      | Sulfuro de hidrógeno         |
+| **H<sub></sub> Cl<sub></sub>**  | *Ácido clorhídrico*      | Cloruro de hidrógeno         |
+
+### Compuestos Ternarios:  
+|             Compuesto             | Nomenclatura Sistemática |      Nomenclatura Stock      |
+|----------------------------------:|:-------------------------|:-----------------------------|
+| **Pb<sub></sub> OH<sub>4</sub>**  | Tetrahidróxido de plomo  | Hidróxido de plomo *(IV)*    |
+| **Zn<sub></sub> OH<sub>2</sub>**  | Dihidróxido de cinc      | Hidróido de cinc             |
+| **Al<sub></sub> OH<sub>3</sub>**  | Trihidróxido de aluminio | Hidróxido de aluminio        |
+| **Li<sub></sub> OH<sub></sub>**   | Hidróxido de litio       | Hidróxido de litio           |
