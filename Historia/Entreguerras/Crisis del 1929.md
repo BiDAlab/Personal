@@ -1,6 +1,6 @@
 ## Crisis del 1929:  
   * [**Vocabulario**](#vocabulario)  
-  * [**Caracteres del capitalismo**](caracteres-de-capitalismo)  
+  * [**Caracteres del capitalismo**](caracteres-del-capitalismo)  
   * [**El Mundo tras la Primera Guerra Mundial**](#el-mundo-tras-la-primera-guerra-mundial)  
     * [Europa](#europa)  
     * [EEUU](#estados-unidos)  
