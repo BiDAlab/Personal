@@ -25,6 +25,12 @@ Repositorio de trabajos personales.
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Pol%C3%ADtica%20Exterior%20de%20Bismark.md)  
     - [ ] [Primera Guerra Mundial](./Historia/Primera%20Guerra%20Mundial.md#primera-guerra-mundial)  
     [*Versión PDF*]()  
+    * Revolución Rusa:  
+      - [ ] [La Rusia Zarista](./Historia/Revolucion-Rusa/La Rusia Zarista.md)  
+      [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Revolucion-Rusa/La%20Rusia%20Zarista.md)  
+    * Entreguerras:  
+      - [ ] [Crisis del 1929](./Historia/Entreguerras/Crisis del 1929.md)  
+      [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Entreguerras/Crisis%20del%201929.md)  
   * **Química**:  
     - [x] [Ejercicios de formulación](./Quimica/Ejercicios de Formulación.md#actividades-de-formulación-inorgánica)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Quimica/Ejercicios%20de%20Formulaci%C3%B3n.md)  
