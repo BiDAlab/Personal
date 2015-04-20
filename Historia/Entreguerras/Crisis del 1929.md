@@ -7,6 +7,7 @@
   * [**Crisis de EEUU**](#crisis-de-eeuu)  
   * [**Las respuestas**](#las-respuestas)  
   * [**Las consecuencias**](#las-consecuencias)  
+  * [***Textos***](#texto)  
 
 ### Vocabulario:  
   * **Paridad**: Equivalencia entre monedas.  
@@ -41,3 +42,5 @@ Todo acaba cuando el último propietario no logra vender los bienes con un mayor
 ### Las respuestas:  
 
 ### Las consecuencias:  
+
+### Texto:  
