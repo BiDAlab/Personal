@@ -29,8 +29,10 @@ Repositorio de trabajos personales.
       - [ ] [La Rusia Zarista](./Historia/Revolucion-Rusa/La Rusia Zarista.md)  
       [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Revolucion-Rusa/La%20Rusia%20Zarista.md)  
     * Entreguerras:  
-      - [ ] [Crisis del 1929](./Historia/Entreguerras/Crisis del 1929.md)  
+      - [x] [Crisis del 1929](./Historia/Entreguerras/Crisis del 1929.md)  
       [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Entreguerras/Crisis%20del%201929.md)  
+      - [ ] [Totalitarismo](./Historia/Entreguerras/Totalitarismo.md#totalitarismo)  
+      [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Historia/Entreguerras/Totalitarismo.md)  
   * **Química**:  
     - [x] [Ejercicios de formulación](./Quimica/Ejercicios de Formulación.md#actividades-de-formulación-inorgánica)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Quimica/Ejercicios%20de%20Formulaci%C3%B3n.md)  
