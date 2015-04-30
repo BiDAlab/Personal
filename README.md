@@ -1,5 +1,5 @@
 # Personal
-Repositorio de trabajos personales. 
+Repositorio de trabajos personales con finalidad educativa. 
 ## Índice:  
   * **Matemáticas**:
     - [x] [Apuntes de Inecuaciones](./Matematicas/Apuntes%20de%20inecuaciones.md#apuntes-de-inecuaciones):  
