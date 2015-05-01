@@ -24,3 +24,4 @@ La disuasión se lleva a cabo mediante policías políticas y ejército paramili
 Los **campos de concentración** alemanes formaban una red de centros de castigo, los que se uba sin juicio previo, donde se vivía en condiciones infrahumanas y había que hacer trabajos forzados. Generalmente se moría por el maltrato que recibías. En los **campos de exterminio** no se iba a trabajar, sino directamente a morir. Estaban todos en Polonia.  
 
 ### Ideologías totalitaristas:  
+  * **Organicismo y antiindividualismo**:
