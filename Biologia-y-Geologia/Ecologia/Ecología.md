@@ -20,7 +20,7 @@
     * [**Sucesiones ecológicas**](#sucesiones-ecológicas)  
 
 ### Concepto de ecosistema:  
-El **ecosistema** está compuesto por poblaciones de SVs que interaccionan entre sí en un medio físico-químico.  
+El **ecosistema** está compuesto por poblaciones de seres vivos que interaccionan entre sí en un medio físico-químico.  
 El mayor ecosistema de todos es la **ecosfera**, formada por la *biosfera*, la *hidrosfera*, la *atmósfera* y la *geosfera*.  
 
 ### Concepto de hábitat y nicho ecológico:  
@@ -28,16 +28,25 @@ El **hábitat** es el **emplazamiento** físico-químico donde se **desarrolla u
 Para concretar un hábitat hay que indicar el ecosistema en el que se encuentra, por ejemplo:  
 > El hábitat del musgo en este pinar es la cara norte de las coníferas que existen en el pinar.  
 
-Un hábitat contiene también los [**factores bióticos**](#factores-bióticos) *(resto de SVs en ese lugar)* y [**abióticos**](#factores-abióticos) *(físicos y químicos)*.  
+Un hábitat contiene también los [**factores bióticos**](#factores-bióticos) *(resto de seres vivos en ese lugar)* y [**abióticos**](#factores-abióticos) *(físicos y químicos)*.  
 La función en el ecosistema de los organismos de un hábitat corresponde con el **nicho ecológico**, que puede ser de dos tipos:  
-  * **Especialista**: cuyos SVs aprovechan un único recurso, generalmente sin competencia y depnden completamente de él.  
-  * **Generalista**: cuyos SVs explotan casi cualquier recurso pudiendo sobrevivir si alguno de ellos se agotara.  
+  * **Especialista**: cuyos seres vivos aprovechan un único recurso, generalmente sin competencia y depnden completamente de él.  
+  * **Generalista**: cuyos seres vivos explotan casi cualquier recurso pudiendo sobrevivir si alguno de ellos se agotara.  
 
 ### Factores abióticos:  
-
+Son aquellos que contiene el **medio físico químico**:  
 
 #### Factor limitante. Valencia ecológica:  
+Refleja el número de organismos frente a un valor ambiental. Se representa gráficamente:  
+![](http://i.imgur.com/c2E3LWP.png)  
+El factor limitante es el que, en un medio, se encuentra fuera de los límites de tolerancia e impide su desarrollo.  
+La valencia es la amplitud de los límites de tolerancia para un determinado factor.  
+Las especies que tienen mucha amplitud de valencia se denominan **euroicas** *(para la temperatura, por ejemplo, es euriterma)*. Las que tienen poca amplitud, son **estenoicas** *(estenoterma)*.  
+Los factores más estudiados son estos:  
 
+| Factor | Prefijo/sufijo | Euroico | Estenoico |
+|:------:|---------------:|:--------|:----------|
+| Temperatura | `termo` | Euritermo | Estenotermo |
 
 #### Factores del medio terrestre. Adaptaciones:  
 
