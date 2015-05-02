@@ -28,22 +28,22 @@
 ### Factores abióticos:  
 
 
-### Factor limitante. Valencia ecológica:  
+#### Factor limitante. Valencia ecológica:  
 
 
-### Factores del medio terrestre. Adaptaciones:  
+#### Factores del medio terrestre. Adaptaciones:  
 
 
-### Factores del medio acuático. Adaptaciones:  
+#### Factores del medio acuático. Adaptaciones:  
 
 
 ### Factores bióticos:  
 
 
-### Relaciones intraespecíficas:  
+#### Relaciones intraespecíficas:  
 
 
-### Relaciones interespecíficas:  
+#### Relaciones interespecíficas:  
 
 
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
@@ -61,17 +61,17 @@
 ### Ciclos biogeoquímicos:  
 
 
-### Ciclo del carbono:  
+#### Ciclo del carbono:  
 
 
-### Ciclo del nitrógeno:  
+#### Ciclo del nitrógeno:  
 
 
 ### Cambios en los ecosistemas:  
 
 
-### Cambios en las poblaciones:  
+#### Cambios en las poblaciones:  
 
 
-### Sucesiones ecológicas:  
+#### Sucesiones ecológicas:  
 
