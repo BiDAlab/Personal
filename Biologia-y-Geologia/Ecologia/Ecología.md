@@ -20,10 +20,18 @@
     * [**Sucesiones ecológicas**](#sucesiones-ecológicas)  
 
 ### Concepto de ecosistema:  
-
+El **ecosistema** está compuesto por poblaciones de SVs que interaccionan entre sí en un medio físico-químico.  
+El mayor ecosistema de todos es la **ecosfera**, formada por la *biosfera*, la *hidrosfera*, la *atmósfera* y la *geosfera*.  
 
 ### Concepto de hábitat y nicho ecológico:  
+El **hábitat** es el **emplazamiento** físico-químico donde se **desarrolla una especie**.  
+Para concretar un hábitat hay que indicar el ecosistema en el que se encuentra, por ejemplo:  
+> El hábitat del musgo en este pinar es la cara norte de las coníferas que existen en el pinar.  
 
+Un hábitat contiene también los [**factores bióticos**](#factores-bióticos) *(resto de SVs en ese lugar)* y [**abióticos**](#factores-abióticos) *(físicos y químicos)*.  
+La función en el ecosistema de los organismos de un hábitat corresponde con el **nicho ecológico**, que puede ser de dos tipos:  
+  * **Especialista**: cuyos SVs aprovechan un único recurso, generalmente sin competencia y depnden completamente de él.  
+  * **Generalista**: cuyos SVs explotan casi cualquier recurso pudiendo sobrevivir si alguno de ellos se agotara.  
 
 ### Factores abióticos:  
 
