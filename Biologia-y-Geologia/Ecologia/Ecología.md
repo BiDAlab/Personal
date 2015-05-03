@@ -4,7 +4,12 @@
   * [**Factores abióticos**](#factores-abióticos)  
     * [**Factor limitante. Valencia ecológica**](#factor-limitante-valencia-ecológica)  
     * [**Factores del medio terrestre. Adaptaciones**](#factores-del-medio-terrestre-adaptaciones)  
+      * [Temperatura](#temperatura)  
+      * [Humedad](#humedad)  
     * [**Factores del medio acuático. Adaptaciones**](#factores-del-medio-acuático-adaptaciones)  
+      * [Luz](#luz)  
+      * [Oxígeno](#oxígeno)  
+      * [Salinidad](#salinidad)  
   * [**Factores bióticos**](#factores-bióticos)  
     * [**Relaciones intraespecíficas**](#relaciones-intraespecíficas)  
     * [**Relaciones interespecíficas**](#relaciones-interespecíficas)  
@@ -39,17 +44,43 @@ Son aquellos que contiene el **medio físico químico**:
 #### Factor limitante. Valencia ecológica:  
 Refleja el número de organismos frente a un valor ambiental. Se representa gráficamente:  
 ![](http://i.imgur.com/c2E3LWP.png)  
+![](http://200.57.38.181/cursos/materias/sexto/cvecolo/banners/tu1/t122a.gif)  
 El factor limitante es el que, en un medio, se encuentra fuera de los límites de tolerancia e impide su desarrollo.  
 La valencia es la amplitud de los límites de tolerancia para un determinado factor.  
 Las especies que tienen mucha amplitud de valencia se denominan **euroicas** *(para la temperatura, por ejemplo, es euriterma)*. Las que tienen poca amplitud, son **estenoicas** *(estenoterma)*.  
 Los factores más estudiados son estos:  
 
-| Factor | Prefijo/sufijo | Euroico | Estenoico |
-|:------:|---------------:|:--------|:----------|
-| Temperatura | `termo` | Euritermo | Estenotermo |
+|    Factor    | Prefijo/sufijo |   Euroico   |   Estenoico   |
+|:------------:|---------------:|:------------|:--------------|
+| Temperatura  | `termo`        | Euritermo   | Estenotermo   |
+| Luz          | `foto`         | Eurifótico  | Estenofótico  |
+| Presión      | `bar`          | Euribárico  | Estenobárico  |
+| Humedad      | `hidro`        | Eurihídrico | Estenohídrico |
+| Sales        | `halino`       | Eurihalino  | Estenohalino  |
+| Alimento     | `fago`         | Eurifago    | Estenófago    |
 
 #### Factores del medio terrestre. Adaptaciones:  
+Son, en mayor medida, la **temperatura** y la **humedad**:  
 
+##### Temperatura:  
+La temperatura varía por la latitud, la altitud y los ciclos, tanto estacionales como diarios.  
+La mayoría de los seres vivos no soportan temperaturas que se encuentren entre los `0°C` y `50°C`. Para incrementar el soporte, algunas especies presentan mecanismos que les mantinene en ese rango térmico aunque la temperatura externa sea mayor o menor. Estas especies son **endotermas** y sólo se dan en mamíferos y aves.  
+Las especies **hectotermas** también tienen sus mecanismos para soportar más temperatura de la que presentan en su valencia ecológica:  
+  * **Hibernación** o **letargo**: período de baja actividad en el que los seres vivos aguantan temperaturas en las que  no pueden desarrollarse.  
+  * **Migración**: desplazamiento de poblaciones a climas más favorables.  
+  * **Recubrimientos aislantes**: formas con que el individuo estabiliza su temperatura independientemente de la externa.  
+  * **Sudoración**: trasformación a calor de la materia orgánica interna con el fin de enfriar la piel del individuo por la evaporación de líquidos segregados.  
+
+##### Humedad:  
+La **humedad absoluta** se define como la cantidad de vapor de agua con respecto a la de aire:  
+![](http://upload.wikimedia.org/math/d/a/4/da4afb70da6ba41e8a1b55f29656e11d.png)  
+La **humedad relativa** es la humedad absoluta con respecto a la humedad de saturación (que varía con la temperatura) en forma de porcentaje:  
+![](http://upload.wikimedia.org/math/d/a/b/dab50ee6418a21f8e4ab3dd9538b9d28.png)  
+Las adaptaciones que presentan los seres vivos ante la humedad les sirven para aislarse del agua o mantenerla en su interior:  
+  * **Recubiertas**:  
+  * **Aparato respiratorio**:  
+  * **Disminución del agua excretada**:  
+  * **Fecundación en un medio interno**:  
 
 #### Factores del medio acuático. Adaptaciones:  
 
