@@ -76,11 +76,15 @@ La **humedad absoluta** se define como la cantidad de vapor de agua con respecto
 ![](http://upload.wikimedia.org/math/d/a/4/da4afb70da6ba41e8a1b55f29656e11d.png)  
 La **humedad relativa** es la humedad absoluta con respecto a la humedad de saturación (que varía con la temperatura) en forma de porcentaje:  
 ![](http://upload.wikimedia.org/math/d/a/b/dab50ee6418a21f8e4ab3dd9538b9d28.png)  
+> ![](http://upload.wikimedia.org/math/f/d/4/fd4c638da5f85d025963f99fe90b1b1a.png) es la humedad relativa de la mezcla de aire (`%`).  
+![](http://upload.wikimedia.org/math/4/3/4/43429ff5de667f48efa72b8d43e92725.png) es la presión parcial de vapor de agua en la mezcla de aire (`Pa`).  
+![](http://upload.wikimedia.org/math/8/0/4/804278b0d3a8888d718deb0284ffd80e.png) es la presión de saturación de agua a la temperatura de la mezcla de aire (`Pa`).  
+
 Las adaptaciones que presentan los seres vivos ante la humedad les sirven para aislarse del agua o mantenerla en su interior:  
-  * **Recubiertas**:  
-  * **Aparato respiratorio**:  
-  * **Disminución del agua excretada**:  
-  * **Fecundación en un medio interno**:  
+  * **Recubiertas impermeables**: ceras y capas, así como la forma de las hojas.  
+  * **Aparato respiratorio**: incluido en el interior del cuerpo en vez de exteriorizarlo para conservar humedad.  
+  * **Disminución del agua excretada**: transformación del amonico en ácido úrico.  
+  * **Fecundación en un medio interno**: para evitar la necesidad de que haya un medio acuático para reproducirse.  
 
 #### Factores del medio acuático. Adaptaciones:  
 
