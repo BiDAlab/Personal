@@ -88,15 +88,44 @@ Las adaptaciones que presentan los seres vivos ante la humedad les sirven para a
 
 #### Factores del medio acuático. Adaptaciones:  
 
+##### Luz:  
+Toda la capa a la que llega la luz se denomina **zona fótica**. Donde no alcanza, **zona afótica**.  
+La zona fótica tiene una profundidad aproximada de 500 m. y se subdivide en dos zonas:  
+  * **Eufótica**: aguas claras donde se permite la fotosíntesis. Alcanza los 200 m. aproximadamente.  
+  * **Oligofótica**: sigue habiendo luz pero no llega la energía necesaria para la fotosíntesis. Los seres vivos que habitan allí necesitan tomar la materia orgánica de otros medios que no sean producirla.  
+
+##### Oxígeno:  
+El nivel de oxígeno determina la posibilidad de que puedan o no vivir algunos organismos.  
+La cantidad de oxígeno que contiene el agua varía según la temperatura que tenga y su turbulencia:  
+  * **Temperatura**: las aguas a mayor temperatura presentan menos oxígeno porque sus átomos tienen mayor movilidad.  
+  * **Turbulencia**: las aguas que presentan oleaje pueden incorporar mucho más oxígeno que las que permanecen estáticas.  
+ 
+##### Salinidad:  
+La concentración de sal en agua es otro factor que determina la posibilidad de vida.  
+Debido a la ósmosis, los seres vivos con mayor concentración de sal que la del medio tendrán que expulsar mucho más líquido en su excreción. En cambio, los que poseen menor cantidad tendrán que expulsar excrementos más concentrados.  
+
+En el medio acuático otros factores como la **flotabilidad** y la **forma hidrodinámica** permiten un mejor desarrollo de los seres vivos.  
 
 ### Factores bióticos:  
-
+Se refieren a la presencia de otros seres vivos con los que se establecen **relaciones**. 
 
 #### Relaciones intraespecíficas:  
-
+Se establecen entre los organismos de una **misma especie**:  
+  * **Competencia**: por recursos como espacio, alimento y reproducción.  
+  Genera una lucha por la supervivencia aplicándose la selección natural y dándose la evolución.  
+  * **Cooperación**: relaciones entre familiares o parentales para reproducirse o cuidar de las crías:  
+    * Relaciones gregarias: cuyo fin es el protegerse, migrar y cazar.  
+    * Relaciones sociales: que subdividen a los organismos en jerarquías para la reproducción y la labor. Los insectos como abejas, avispas, hormigas y termitas son claros ejemplos de estas relaciones.  
+    * Relaciones coloniales: cuyos organismos están unidos físicamente por reproducción asexual. Los corales generan colonias que también dividen las funciones.  
 
 #### Relaciones interespecíficas:  
-
+Se establecen entre dos especies que se influyen mutuamente:  
+  * **Compentencia**: generalmente se dan entre especies con nichos ecológicos similares. Cuando una de ellas se aventaja la otra acaba extinguiéndose.  
+  * **Depredación**: a lo largo del tiempo hay un equilibrio entre depredador y presa, manteniendo por fluctuaciones el número de individuos de cada especie.  
+  * **Parasitismo**: al igual que en la depredación, hay un equilibrio. Se subdivide en: endoparasitismo, cuando el parásito se encuentra dentro y ectoparasitismo cuando se encuentra fuera del organismo parasitado.  
+  * **Inquilinismo**: un organismo vive en otro y lo aprovecha sin causarle perjuicio ni beneficio. Las aves hacen sus nidos en lo alto de los árboles sin dañarlos.  
+  * **Comensalismo**: uno de los individuos aprovecha los restos o desechos del otro beneficiándose sin perjudicarlo.   * **Mutualismo**: los dos organismos colaboran entre sí de forma que uno beneficia al otro al mismo tiempo que elimina microbios o algún otro factor perjudicial.  
+  * **Simbiosis**: mutualismo extremo en el que los dos organismos no pueden sobrevivir si no están juntos. Los líquenes son la simbiosis más perfecta *(alga y hongo)*.  
 
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
 
