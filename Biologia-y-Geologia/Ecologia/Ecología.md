@@ -128,7 +128,7 @@ Se establecen entre dos especies que se influyen mutuamente:
   * **Simbiosis**: mutualismo extremo en el que los dos organismos no pueden sobrevivir si no están juntos. Los líquenes son la simbiosis más perfecta *(alga y hongo)*.  
 
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
-
+En los ecosistemas se transfiere **materia y energía** mediante la alimentación. En base a estas transferencias se establecen relaciones alimentarias y **cadenas** y **redes tróficas**.  
 
 ### Transferencia de materia y energía:  
 
