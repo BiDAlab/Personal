@@ -42,7 +42,7 @@ Repositorio de trabajos personales con finalidad educativa.
     - [x] [Evolución](./Biologia-y-Geologia/Evolucion/Evolución.md#la-evolución-de-los-seres-vivos)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Evolucion/Evoluci%C3%B3n.md)  
     - [ ] [Ecología](./Biologia-y-Geologia/Ecologia/Ecología.md#ecología)  
-    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Ecologia/Ecolog%C3%ADa.md)  
+    [**](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Ecologia/Ecolog%C3%ADa.md)  
   * **Lengua y Literatura**:
     - [x] [Literatura realista](./Lengua/Esquema%20-%20Literatura%20Realista.md#la-literatura-realista)
     * Episodios Nacioneles:
