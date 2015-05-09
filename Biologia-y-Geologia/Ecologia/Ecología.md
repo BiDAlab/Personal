@@ -130,6 +130,20 @@ Se establecen entre dos especies que se influyen mutuamente:
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
 En los ecosistemas se transfiere **materia y energía** mediante la alimentación. En base a estas transferencias se establecen relaciones alimentarias y **cadenas** y **redes tróficas**.  
 
+#### Niveles tróficos:  
+  * **Productores**: Fabrican materia orgánica a partir de materia inorgánica. Para ello incorporan energía de la **luz solar**, o de **reacciones químicas**. Todos los organismos productores son autótrofos: *cianobacterias*, *algas* y *plantas*.  
+
+  > La fórmula de la transformación de materia inorgánica en materia orgánica es:  
+6**CO<sub>2</sub>** + 6**H<sub>2</sub>O** ⤚*E<sub>LUZ</sub>*→ **C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>** + 6**O<sub>2</sub>**  
+
+  * **Consumidores**: Consumen materia orgánica del exterior, es decir, de otros seres vivos. En su metabolismo transforman la materia orgánica que incorporan, en la suya propia. Según su alimentación, se distinguen:  
+    * Consumidores primarios ***C<sub>1</sub>***: Herbívoros que obtienen la materia directamente de los productores.  
+    * Consumidores secundarios ***C<sub>2</sub>***: Carnívoros predadores.  
+    * Consumidores terciarios *y órdenes superiores* ***C<sub>3</sub>***: Se alimentan de carnívoros. Se denominan **superpredadores**.  
+    * Consumidores finales ***C<sub>F</sub>***: Carnívoros o carroñeros que suponen el último nivel de consumidores.  
+
+  > Los organismos **omnívoros** se alimentan tanto de productores como de otros consumidores. Lo mismo sucede con los **detritívoros**, que se alimentan de los restos orgánicos *(como el gusano)*.  
+
 ### Transferencia de materia y energía:  
 
 
