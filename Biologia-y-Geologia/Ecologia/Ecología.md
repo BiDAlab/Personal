@@ -14,7 +14,12 @@
     * [**Relaciones intraespecíficas**](#relaciones-intraespecíficas)  
     * [**Relaciones interespecíficas**](#relaciones-interespecíficas)  
   * [**Estructura del ecosistema. Cadenas y redes tróficas**](#estructura-del-ecosistema-cadenas-y-redes-tróficas)  
+    * [**Niveles tróficos**](#niveles-tróficos)  
+    * [**Cadenas tróficas**](#cadenas-tróficas)  
+    * [**Redes tróficas**](#redes-tróficas)  
   * [**Transferencia de materia y energía**](#transferencia-de-materia-y-energía)  
+    * [**Ciclo de la materia**](#ciclo-de-la-materia)  
+    * [**Flujo de la energía**](#flujo-de-la-energía)  
   * [**Parámetros tróficos**](#parámetros-tróficos)  
   * [**Pirámides ecológicas**](#pirámides-ecológicas)  
   * [**Ciclos biogeoquímicos**](#ciclos-biogeoquímicos)  
@@ -143,9 +148,33 @@ En los ecosistemas se transfiere **materia y energía** mediante la alimentació
     * Consumidores finales ***C<sub>F</sub>***: Carnívoros o carroñeros que suponen el último nivel de consumidores.  
 
   > Los organismos **omnívoros** se alimentan tanto de productores como de otros consumidores. Lo mismo sucede con los **detritívoros**, que se alimentan de los restos orgánicos *(como el gusano)*.  
+  
+  * **Descomponedores**: toman la materia orgánica de restos y cadáveres para transformarla en materia inorgánica en el proceso de **mineralización**. Los organismos descomponedores son **saprófitos**, es decir, viven sobre materia orgánica muerta.  
+  El proceso de mineralización se lleva a cabo mediante la respiración celular:  
+  > La fórmula de la respiración celular es la siguiente:  
+**C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>** + 6**O<sub>2</sub>** ⤚→ 6**CO<sub>2</sub>** + 6**H<sub>2</sub>O** + 38**ATP**  
+
+#### Cadenas tróficas:  
+Son **representaciones lineales** de **relaciones alimentarias** que hay entre distintos niveles tróficos.  
+Se expresan mediante flechas, que significan la transferencia de materia y energía entre un nivel y el anterior.  
+En las cadenas tróficas no puede haber muchas relaciones porque la energía se va perdiendo progresivamente *(véase: [flujo de la energía](#flujo-de-la-energía))*.  
+
+#### Redes tróficas:  
+Se forman por la agrupación de cadenas tróficas que comparten distintos individuos dendo lugar a una estructura compleja de relaciones entre todos los organismos de un ecosistema:  
+![](http://www.salomart.com/images/i-22b.jpg)  
 
 ### Transferencia de materia y energía:  
+La materia fluye por el ecosistema de forma cíclica, es decir, se renueva. Por el contrario, la energía fluye unidireccionalmente y tiene que reabastecerse constantemente.  
 
+#### Ciclo de la materia:  
+Partiendo de materia inorgánica, se transforma por medio de los productores en materia orgánica en la fotosíntesis. Los mismos productores consumen parte de la materia orgánica para su estructira corporal y la obtención de energía.  
+El primer consumidor sólo puede obtener la materia orgánica que el productor no utiliza y, al igual que éste, parte de ella la requiere para abastecerse de energía y sustancias propias. Al resto de consumidores les ocurre lo mismo y la materia orgánica se va perdiendo en forma de materia inorgánica, por lo que las cadenas tróficas no pueden ser muy largas.  
+Todos los organismos producen restos de materia orgánica que los descomponedores aprovechan para transformarla en materia inorgánica en la mineralización.  
+Toda la materia que comenzó siendo inorgánica vuelve a serlo para utilizarse de nuevo.  
+
+#### Flujo de la energía:  
+La energía de los ecosistemas constituye un flujo abierto y unidireccional. En cada transformación de la energía se disipa una parte en forma de calor.  
+La energía que se incorpora en el ecosistema es la energía lumínica, que pasa entre niveles tróficos en forma de energía química y, finalmente, todo se disipa en energía térmica.  
 
 ### Parámetros tróficos:  
 
