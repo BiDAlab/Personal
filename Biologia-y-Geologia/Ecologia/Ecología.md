@@ -40,7 +40,7 @@ Para concretar un hábitat hay que indicar el ecosistema en el que se encuentra,
 
 Un hábitat contiene también los [**factores bióticos**](#factores-bióticos) *(resto de seres vivos en ese lugar)* y [**abióticos**](#factores-abióticos) *(físicos y químicos)*.  
 La función en el ecosistema de los organismos de un hábitat corresponde con el **nicho ecológico**, que puede ser de dos tipos:  
-  * **Especialista**: cuyos seres vivos aprovechan un único recurso, generalmente sin competencia y depnden completamente de él.  
+  * **Especialista**: cuyos seres vivos aprovechan un único recurso, generalmente sin competencia y dependen completamente de él.  
   * **Generalista**: cuyos seres vivos explotan casi cualquier recurso pudiendo sobrevivir si alguno de ellos se agotara.  
 
 ### Factores abióticos:  
@@ -129,7 +129,8 @@ Se establecen entre dos especies que se influyen mutuamente:
   * **Depredación**: a lo largo del tiempo hay un equilibrio entre depredador y presa, manteniendo por fluctuaciones el número de individuos de cada especie.  
   * **Parasitismo**: al igual que en la depredación, hay un equilibrio. Se subdivide en: endoparasitismo, cuando el parásito se encuentra dentro y ectoparasitismo cuando se encuentra fuera del organismo parasitado.  
   * **Inquilinismo**: un organismo vive en otro y lo aprovecha sin causarle perjuicio ni beneficio. Las aves hacen sus nidos en lo alto de los árboles sin dañarlos.  
-  * **Comensalismo**: uno de los individuos aprovecha los restos o desechos del otro beneficiándose sin perjudicarlo.   * **Mutualismo**: los dos organismos colaboran entre sí de forma que uno beneficia al otro al mismo tiempo que elimina microbios o algún otro factor perjudicial.  
+  * **Comensalismo**: uno de los individuos aprovecha los restos o desechos del otro beneficiándose sin perjudicarlo.  
+  * **Mutualismo**: los dos organismos colaboran entre sí de forma que uno beneficia al otro al mismo tiempo que elimina microbios o algún otro factor perjudicial.  
   * **Simbiosis**: mutualismo extremo en el que los dos organismos no pueden sobrevivir si no están juntos. Los líquenes son la simbiosis más perfecta *(alga y hongo)*.  
 
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
@@ -160,7 +161,7 @@ Se expresan mediante flechas, que significan la transferencia de materia y energ
 En las cadenas tróficas no puede haber muchas relaciones porque la energía se va perdiendo progresivamente *(véase: [flujo de la energía](#flujo-de-la-energía))*.  
 
 #### Redes tróficas:  
-Se forman por la agrupación de cadenas tróficas que comparten distintos individuos dendo lugar a una estructura compleja de relaciones entre todos los organismos de un ecosistema:  
+Se forman por la agrupación de cadenas tróficas que comparten distintos individuos dando lugar a una estructura compleja de relaciones entre todos los organismos de un ecosistema:  
 ![](http://www.salomart.com/images/i-22b.jpg)  
 
 ### Transferencia de materia y energía:  
@@ -177,7 +178,23 @@ La energía de los ecosistemas constituye un flujo abierto y unidireccional. En 
 La energía que se incorpora en el ecosistema es la energía lumínica, que pasa entre niveles tróficos en forma de energía química y, finalmente, todo se disipa en energía térmica.  
 
 ### Parámetros tróficos:  
+Los parámetros tróficos son las unidades que se emplean para poermitirnos medir los niveles de distintas propiedades de un ecosistema y compararlo con otros para su estudio.  
+  * **Biomasa** *`B`*: Corresponde a la **cantidad de materia o energía** que se encuentra en el ecosistema o en sus distintos niveles. Se utiliza una medida distinta según sea un ecosistema marino o terrestre. Para el escosistema terrestre, se mide por unidad de **superficie** y para el marino, de **volumen**:  
+  
+  > La fórmula para calcular la biomasa es la siguiente:  
+![](http://i.imgur.com/Xx2yI8y.png)  
+Las unidades posibles son estas:  
+![](http://i.imgur.com/dYL0uvq.png)  
+La conversión entre la unidad de masa y energía se realiza aplicando la relación:  
+![](http://i.imgur.com/L2ogbYV.png)  
+`1cal → 4184J` `1J → 0.239cal`  
 
+  * **Producción** *`P`*: Mide el incremento de biomasa que se ha producido en un tiempo determinado:  
+  
+  > ![](http://i.imgur.com/5uLx1ek.png)  
+
+  La producción puede referirse a la variación de biomasa que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad bruta o neta, nos proporcionará información de la energía que obtiene un nivel o la que pone a disposición del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
+    TABLA
 
 ### Pirámides ecológicas:  
 
