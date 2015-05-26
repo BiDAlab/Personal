@@ -193,17 +193,41 @@ La conversión entre la unidad de masa y energía se realiza aplicando la relaci
   
   > ![](http://i.imgur.com/5uLx1ek.png)  
 
-  La producción puede referirse a la variación de biomasa que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad bruta o neta, nos proporcionará información de la energía que obtiene un nivel o la que pone a disposición del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
-    TABLA
+  La producción puede referirse a la **variación de biomasa** que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad **bruta** o **neta**, nos proporcionará información de la energía que **obtiene** un nivel o la que **pone a disposición** del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
+  
+  |  Nivel Trófico  |                  Producción Bruta                  |                        Producción Neta                        |
+|----------------:|:-------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| Productores     | *`PPB`* Energía lumínica que **incide** en el ecosistema y es captada por los productores | *`PPN`* Materia orgánica **disponible tras la respiración** |
+| Consumidores    | *`PSB`* Materia orgánica que **ingieren** los consumidores     | *`PSN`* Toda la materia **disponible** para otros consumidores o descomponedores |
+| Descomponedores | *`PTB`* Toda la materia orgánica **desechada** del ecosistema que es aprovechada por los descomponedores | *`PTN`* **No** dejan materia orgánica  |
+| Ecosistema      | *`PEB`* Biomasa que se reutiliza, es poco representativo       | *`PEN`* Materia que **permanece** después de pasar por todos los niveles  |
+
+  * **Productividad** *`Pd`*: Es el porcentaje de **biomasa producida con respecto a la que había inicialmente**.  
+  Un ecosistema con una productividad muy elevada está en **expansión**, si es baja pierde biomasa y se dice que está en **regresión**.
+  
+  > ![](http://i.imgur.com/vASZrf8.png)    
+  
+  * **Eficiencia** *`Ef`*: Es la relación que existe entre la energía que se **asimila** en un nivel con respecto a la total que puede **obtener**. Puede expresarse como porcentaje:  
+  
+  > ![](http://i.imgur.com/ZvlWaCx.png)  
 
 ### Pirámides ecológicas:  
-
+Las pirámides ecológicas o pirámides tróficas, son representaciones gráficas de una característica cuantificable de un ecosistema. Las características que se suelen representar para un ecosistema son:  
+  * **Cantidad de individuos** de cada nivel trófico:  
+  ![](http://2.bp.blogspot.com/-nprfa-P2M38/U4-GiOrllrI/AAAAAAAAA5g/f3BdR-USBXI/s1600/49.+Pir%C3%A1mides+Tr%C3%B3ficas+3.png)  
+  * **Biomasa** acumulada en cada nivel:  
+  ![](http://1.bp.blogspot.com/-ktzVRyWe6Y4/U4-Gc2qUkMI/AAAAAAAAA5Y/kEN6P6P_JFg/s1600/48.+Pir%C3%A1mides+Tr%C3%B3ficas+2.png)  
+  * **Energía** present en cada nivel:  
+  ![](http://3.bp.blogspot.com/-v8GDJMw5qVM/U4-GUNRF_VI/AAAAAAAAA5U/PjDRdLAPJXU/s1600/47.+Pir%25C3%25A1mides+Tr%25C3%25B3ficas+1.png)  
 
 ### Ciclos biogeoquímicos:  
-
+Son **recorridos cerrados** de los **elementos químicos** en un ecosistema.  
+Parten de una zona concentrada en la que el elemento permanece el mayor tiempo llamada **reserva** o ***reservorio***.  
 
 #### Ciclo del carbono:  
-
+El reservorio es el **CO<sub>2</sub>** atmosférico, que aprovechan los productores en la fotosíntesis. En cualquier proceso de combustión u oxidación el **CO<sub>2</sub>** se devuelve a la atmósfera.  
+El **carbono orgánico** *(contenido en la molécula de glucosa, principalmente)* que se produce en la fotosíntesis, pasa a todos los niveles tróficos mediante la alimentación de los mismos, que lo devuelven a la atmósfera o generan restos orgánicos. Los restos pueden ser aprovechados por los descomponedores o pueden ser **carbonizados** por bacterias anaerobias, formando **carbono orgánico fósil**, también conocido como ***combustible orgánico***.  
+SEGUIR
 
 #### Ciclo del nitrógeno:  
 
