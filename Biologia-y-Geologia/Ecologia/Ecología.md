@@ -165,12 +165,12 @@ La conversión entre la unidad de masa y energía se realiza aplicando la relaci
 
   La producción puede referirse a la **variación de biomasa** que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad **bruta** o **neta**, nos proporcionará información de la energía que **obtiene** un nivel o la que **pone a disposición** del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
   
-  |  Nivel Trófico  |                  Producción Bruta                  |                        Producción Neta                        |
-|----------------:|:-------------------------------------------------------------:|:------------------------------------------------------------------------:|
-| Productores     | *`PPB`* Energía lumínica que **incide** en el ecosistema y es captada por los productores | *`PPN`* Materia orgánica **disponible tras la respiración** |
-| Consumidores    | *`PSB`* Materia orgánica que **ingieren** los consumidores     | *`PSN`* Toda la materia **disponible** para otros consumidores o descomponedores |
-| Descomponedores | *`PTB`* Toda la materia orgánica **desechada** del ecosistema que es aprovechada por los descomponedores | *`PTN`* **No** dejan materia orgánica  |
-| Ecosistema      | *`PEB`* Biomasa que se reutiliza, es poco representativo       | *`PEN`* Materia que **permanece** después de pasar por todos los niveles  |
+  |  Nivel Trófico  |                                             Producción Bruta                                             |                                  Producción Neta                                  |
+  |----------------:|:--------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+  | Productores     | *`PPB`* Energía lumínica que **incide** en el ecosistema y es captada por los productores                | *`PPN`* Materia orgánica **disponible tras la respiración**                       |
+  | Consumidores    | *`PSB`* Materia orgánica que **ingieren** los consumidores                                               | *`PSN`* Toda la materia **disponible** para otros consumidores o descomponedores  |
+  | Descomponedores | *`PTB`* Toda la materia orgánica **desechada** del ecosistema que es aprovechada por los descomponedores | *`PTN`* **No** dejan materia orgánica                                             |
+  | Ecosistema      | *`PEB`* Biomasa que se reutiliza, es poco representativo                                                 | *`PEN`* Materia que **permanece** después de pasar por todos los niveles          |
 
   * **Productividad** *`Pd`*: Es el porcentaje de **biomasa producida con respecto a la que había inicialmente**.  
   Un ecosistema con una productividad muy elevada está en **expansión**, si es baja pierde biomasa y se dice que está en **regresión**.
@@ -198,7 +198,6 @@ Parten de una zona concentrada en la que el elemento permanece el mayor tiempo l
 El reservorio es el **CO<sub>2</sub>** atmosférico, que aprovechan los productores en la fotosíntesis. En cualquier proceso de combustión u oxidación el **CO<sub>2</sub>** se devuelve a la atmósfera.  
 El **carbono orgánico** *(contenido en la molécula de glucosa, principalmente)* que se produce en la fotosíntesis, pasa a todos los niveles tróficos mediante la alimentación de los mismos, que lo devuelven a la atmósfera o generan restos orgánicos. Los restos pueden ser aprovechados por los descomponedores o pueden ser **carbonizados** por bacterias anaerobias, formando **carbono orgánico fósil**, también conocido como ***combustible orgánico***.  
 Por otro lado, la **carbonatación** contribuye a la formación de carbonatos, que dan lugar a rocas. El vulcanismo y otras actividades geológicas pueden hacer que ese **CO<sub>2</sub>** almacenado regrese al sumidero atmosférico.  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Carbon_cycle-cute_diagram-espanol.svg/1280px-Carbon_cycle-cute_diagram-espanol.svg.png)  
 
 #### Ciclo del nitrógeno:  
 Al igual que en el ciclo anterior, el reservorio es la atmósfera, con un alto contenido en **N<sub>2</sub>**. Para pasar ese **N<sub>2</sub>** a los nitratos se produce la **fijación**:  
@@ -208,7 +207,6 @@ Al igual que en el ciclo anterior, el reservorio es la atmósfera, con un alto c
 Los nitratos ya fijados, se aprovechan en la fotosíntesis para formar nitrógeno orgánico en forma de **proteínas**, transferidas a todos los niveles tróficos por alimentación. El nitrógneo llega a los descomponedores como amonio **NH<sub>4</sub><sup>+</sup>** desechado y éstos realizan su nitrificación para transformarlos en nitritos **NO<sub>2</sub><sup>-</sup>**. Las bacterias **nitrificantes** crean nitratos **NO<sub>3</sub><sup>-</sup>** a partir de estos nitritos.  
 En los ecosistemas también hay bacterias **desnitrificadoras**, que pasan los nitratos a nitrógeno atmosférico, resultando perjudiciales para los cultivos de productores.  
 Todo esto constituye el ciclo del nitrógeno que es de suma importancia para la vida de un ecosistema.  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ciclo_del_nitr%C3%B3geno.svg/1280px-Ciclo_del_nitr%C3%B3geno.svg.png)  
 
 ### Cambios en los ecosistemas:  
 
