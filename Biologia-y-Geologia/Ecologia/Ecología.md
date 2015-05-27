@@ -164,13 +164,7 @@ La conversión entre la unidad de masa y energía se realiza aplicando la relaci
   > ![](http://i.imgur.com/5uLx1ek.png)  
 
   La producción puede referirse a la **variación de biomasa** que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad **bruta** o **neta**, nos proporcionará información de la energía que **obtiene** un nivel o la que **pone a disposición** del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
-  
-  |  Nivel Trófico  |                                             Producción Bruta                                             |                                  Producción Neta                                  |
-  |----------------:|:--------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-  | Productores     | *`PPB`* Energía lumínica que **incide** en el ecosistema y es captada por los productores                | *`PPN`* Materia orgánica **disponible tras la respiración**                       |
-  | Consumidores    | *`PSB`* Materia orgánica que **ingieren** los consumidores                                               | *`PSN`* Toda la materia **disponible** para otros consumidores o descomponedores  |
-  | Descomponedores | *`PTB`* Toda la materia orgánica **desechada** del ecosistema que es aprovechada por los descomponedores | *`PTN`* **No** dejan materia orgánica                                             |
-  | Ecosistema      | *`PEB`* Biomasa que se reutiliza, es poco representativo                                                 | *`PEN`* Materia que **permanece** después de pasar por todos los niveles          |
+  ![](http://i.imgur.com/DcfsNHd.png)  
 
   * **Productividad** *`Pd`*: Es el porcentaje de **biomasa producida con respecto a la que había inicialmente**.  
   Un ecosistema con una productividad muy elevada está en **expansión**, si es baja pierde biomasa y se dice que está en **regresión**.
