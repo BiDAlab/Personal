@@ -27,6 +27,7 @@
     * [**Ciclo del nitrógeno**](#ciclo-del-nitrógeno)  
   * [**Cambios en los ecosistemas**](#cambios-en-los-ecosistemas)  
     * [**Cambios en las poblaciones**](#cambios-en-las-poblaciones)  
+    * [**Cambios en las comunidades**](#cambios-en-las-comunidades)  
     * [**Sucesiones ecológicas**](#sucesiones-ecológicas)  
 
 ### Concepto de ecosistema:  
@@ -222,20 +223,31 @@ Las pirámides ecológicas o pirámides tróficas, son representaciones gráfica
 
 ### Ciclos biogeoquímicos:  
 Son **recorridos cerrados** de los **elementos químicos** en un ecosistema.  
-Parten de una zona concentrada en la que el elemento permanece el mayor tiempo llamada **reserva** o ***reservorio***.  
+Parten de una zona concentrada en la que el elemento permanece el mayor tiempo llamada **sumidero** o ***reservorio***.  
 
 #### Ciclo del carbono:  
 El reservorio es el **CO<sub>2</sub>** atmosférico, que aprovechan los productores en la fotosíntesis. En cualquier proceso de combustión u oxidación el **CO<sub>2</sub>** se devuelve a la atmósfera.  
 El **carbono orgánico** *(contenido en la molécula de glucosa, principalmente)* que se produce en la fotosíntesis, pasa a todos los niveles tróficos mediante la alimentación de los mismos, que lo devuelven a la atmósfera o generan restos orgánicos. Los restos pueden ser aprovechados por los descomponedores o pueden ser **carbonizados** por bacterias anaerobias, formando **carbono orgánico fósil**, también conocido como ***combustible orgánico***.  
-SEGUIR
+Por otro lado, la **carbonatación** contribuye a la formación de carbonatos, que dan lugar a rocas. El vulcanismo y otras actividades geológicas pueden hacer que ese **CO<sub>2</sub>** almacenado regrese al sumidero atmosférico.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Carbon_cycle-cute_diagram-espanol.svg/1280px-Carbon_cycle-cute_diagram-espanol.svg.png)  
 
 #### Ciclo del nitrógeno:  
+Al igual que en el ciclo anterior, el reservorio es la atmósfera, con un alto contenido en **N<sub>2</sub>**. Para pasar ese **N<sub>2</sub>** a los nitratos se produce la **fijación**:  
+  * **Fijación abiótica**: mayoritariamente, se obtiene la energía para fijar el **N<sub>2</sub>** de la electricidad de las tormentas. Se produce de una forma natural y no está influida por la acción de seres vivos.  
+  * **Fijación biótica**: las bacterias acuáticas *(cianobacterias)* y terrestres *(Rhizobium)* son las que fijan el **N<sub>2</sub>** dando lugar a **NH<sub>3</sub>** o **NO<sub>3</sub><sup>-</sup>**.  
 
+Los nitratos ya fijados, se aprovechan en la fotosíntesis para formar nitrógeno orgánico en forma de **proteínas**, transferidas a todos los niveles tróficos por alimentación. El nitrógneo llega a los descomponedores como amonio **NH<sub>4</sub><sup>+</sup>** desechado y éstos realizan su nitrificación para transformarlos en nitritos **NO<sub>2</sub><sup>-</sup>**. Las bacterias **nitrificantes** crean nitratos **NO<sub>3</sub><sup>-</sup>** a partir de estos nitritos.  
+En los ecosistemas también hay bacterias **desnitrificadoras**, que pasan los nitratos a nitrógeno atmosférico, resultando perjudiciales para los cultivos de productores.  
+Todo esto constituye el ciclo del nitrógeno que es de suma importancia para la vida de un ecosistema.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ciclo_del_nitr%C3%B3geno.svg/1280px-Ciclo_del_nitr%C3%B3geno.svg.png)  
 
 ### Cambios en los ecosistemas:  
 
 
 #### Cambios en las poblaciones:  
+
+
+#### Cambios en las comunidades:  
 
 
 #### Sucesiones ecológicas:  
