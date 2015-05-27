@@ -218,7 +218,7 @@ Las pirámides ecológicas o pirámides tróficas, son representaciones gráfica
   ![](http://2.bp.blogspot.com/-nprfa-P2M38/U4-GiOrllrI/AAAAAAAAA5g/f3BdR-USBXI/s1600/49.+Pir%C3%A1mides+Tr%C3%B3ficas+3.png)  
   * **Biomasa** acumulada en cada nivel:  
   ![](http://1.bp.blogspot.com/-ktzVRyWe6Y4/U4-Gc2qUkMI/AAAAAAAAA5Y/kEN6P6P_JFg/s1600/48.+Pir%C3%A1mides+Tr%C3%B3ficas+2.png)  
-  * **Energía** present en cada nivel:  
+  * **Energía** presente en cada nivel:  
   ![](http://3.bp.blogspot.com/-v8GDJMw5qVM/U4-GUNRF_VI/AAAAAAAAA5U/PjDRdLAPJXU/s1600/47.+Pir%25C3%25A1mides+Tr%25C3%25B3ficas+1.png)  
 
 ### Ciclos biogeoquímicos:  
