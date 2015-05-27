@@ -243,12 +243,38 @@ Todo esto constituye el ciclo del nitrógeno que es de suma importancia para la 
 
 ### Cambios en los ecosistemas:  
 
-
 #### Cambios en las poblaciones:  
+Se producen en los individuos de una misma especie que habitan en un ecosistema.  
+Habitualmente los que medimos están referidos al tamaño de la población:  
+  * **Número de individuos** *`N`*: Suma total de los seres vivos que componen una población.  
+  ![](http://i.imgur.com/YrWyaFh.png)  
+  ![](http://i.imgur.com/DBOEmyA.png)  
+  * **Densidad**: Individuos por cada unidad de superficie o volumen.  
+  ![](http://i.imgur.com/XXfjJRJ.png)  
+  * **Variación de individuos**:  
+  ![](http://i.imgur.com/4OFSuWg.png)  
+  Se representa gráficamente mediante *N* con respecto al tiempo:  
+  ![](http://images.slideplayer.es/4/1489899/slides/slide_25.jpg)  
 
+La **resistencia ambiental** es el conjunto de factores que impiden a una población alcanzar el potencial biótico. Regulan la capacidad reproductiva de una población de manera limitante. El total de población permanecerá fluctuante entorno a este valor, denominado **`k`**.  
+Para conseguir el progreso en un ecosistema, se llevan a cabo dos tipos distintos de **estrategias de supervivencia**:  
+  * **Estrategia en `R`**: Se basan en su potencial biótico para prosperar.  
+  ![](http://i.imgur.com/rkKYJFI.png)  
+  * **Estrategia en `K`**: Se basan en el límite de capacidad del medio formado por la resistencia ambiental.  
+  ![](http://i.imgur.com/XJJcIoJ.png)  
 
 #### Cambios en las comunidades:  
-
+Estos cambios están relacionados con el **número de especies** que conviven en una comunidad.  
+Las características cuantificables que se miden son:  
+  * **Biodiversidad**: Número de especies distintas en relación con el total de individuos.  
+  ![](http://i.imgur.com/6WgE1mu.png)  
+  * **Abundancia**: individuos de una misma especie entre el total.  
+  ![](http://i.imgur.com/knS2n4I.png)  
 
 #### Sucesiones ecológicas:  
-
+Son el conjunto de cambios en el ecosistema a lo largo del tiempo. Afectan a la biodiversidad y a la abundancia de las especies.  
+En un ecosistema que comienza a desarrollarse, los primeros seres vivos son **productores pioneros**, como líquenes y musgos. El terreno se va modificando como para que se puedan instalar ya otros productores de pequeño tamaño.  
+El ecosistema madura conforme se van instalando seres vivos de mayor porte, como arbustos y pequeños animales.  
+El final ideal de un ecosistema se denomina **clímax** y en él, se alcanza la máxima biodiversidad y abundancia.  
+En caso de producirse una **sucesión inversa**, el cambio se denomina **regresión**. Puede ser producida por la acción de un factor natural o una actividad humana.  
+Después de una regresión, el ecosistema vuelve a desarrollarse en una sucesión secundaria, que parte de los restos de la anterior.
