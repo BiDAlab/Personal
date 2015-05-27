@@ -1,5 +1,4 @@
 ## Ecología:  
-
 ### Concepto de ecosistema:  
 El **ecosistema** está compuesto por poblaciones de seres vivos que interaccionan entre sí en un medio físico-químico.  
 El mayor ecosistema de todos es la **ecosfera**, formada por la *biosfera*, la *hidrosfera*, la *atmósfera* y la *geosfera*.  
@@ -11,7 +10,7 @@ Para concretar un hábitat hay que indicar el ecosistema en el que se encuentra,
 
 Un hábitat contiene también los [**factores bióticos**](#factores-bióticos) *(resto de seres vivos en ese lugar)* y [**abióticos**](#factores-abióticos) *(físicos y químicos)*.  
 La función en el ecosistema de los organismos de un hábitat corresponde con el **nicho ecológico**, que puede ser de dos tipos:  
-  * **Especialista**: cuyos seres vivos aprovechan un único recurso, generalmente sin competencia y depnden completamente de él.  
+  * **Especialista**: cuyos seres vivos aprovechan un único recurso, generalmente sin competencia y dependen completamente de él.  
   * **Generalista**: cuyos seres vivos explotan casi cualquier recurso pudiendo sobrevivir si alguno de ellos se agotara.  
 
 ### Factores abióticos:  
@@ -100,7 +99,8 @@ Se establecen entre dos especies que se influyen mutuamente:
   * **Depredación**: a lo largo del tiempo hay un equilibrio entre depredador y presa, manteniendo por fluctuaciones el número de individuos de cada especie.  
   * **Parasitismo**: al igual que en la depredación, hay un equilibrio. Se subdivide en: endoparasitismo, cuando el parásito se encuentra dentro y ectoparasitismo cuando se encuentra fuera del organismo parasitado.  
   * **Inquilinismo**: un organismo vive en otro y lo aprovecha sin causarle perjuicio ni beneficio. Las aves hacen sus nidos en lo alto de los árboles sin dañarlos.  
-  * **Comensalismo**: uno de los individuos aprovecha los restos o desechos del otro beneficiándose sin perjudicarlo.   * **Mutualismo**: los dos organismos colaboran entre sí de forma que uno beneficia al otro al mismo tiempo que elimina microbios o algún otro factor perjudicial.  
+  * **Comensalismo**: uno de los individuos aprovecha los restos o desechos del otro beneficiándose sin perjudicarlo.  
+  * **Mutualismo**: los dos organismos colaboran entre sí de forma que uno beneficia al otro al mismo tiempo que elimina microbios o algún otro factor perjudicial.  
   * **Simbiosis**: mutualismo extremo en el que los dos organismos no pueden sobrevivir si no están juntos. Los líquenes son la simbiosis más perfecta *(alga y hongo)*.  
 
 ### Estructura del ecosistema. Cadenas y redes tróficas:  
@@ -131,7 +131,7 @@ Se expresan mediante flechas, que significan la transferencia de materia y energ
 En las cadenas tróficas no puede haber muchas relaciones porque la energía se va perdiendo progresivamente *(véase: [flujo de la energía](#flujo-de-la-energía))*.  
 
 #### Redes tróficas:  
-Se forman por la agrupación de cadenas tróficas que comparten distintos individuos dendo lugar a una estructura compleja de relaciones entre todos los organismos de un ecosistema:  
+Se forman por la agrupación de cadenas tróficas que comparten distintos individuos dando lugar a una estructura compleja de relaciones entre todos los organismos de un ecosistema:  
 ![](http://www.salomart.com/images/i-22b.jpg)  
 
 ### Transferencia de materia y energía:  
@@ -148,25 +148,102 @@ La energía de los ecosistemas constituye un flujo abierto y unidireccional. En 
 La energía que se incorpora en el ecosistema es la energía lumínica, que pasa entre niveles tróficos en forma de energía química y, finalmente, todo se disipa en energía térmica.  
 
 ### Parámetros tróficos:  
+Los parámetros tróficos son las unidades que se emplean para poermitirnos medir los niveles de distintas propiedades de un ecosistema y compararlo con otros para su estudio.  
+  * **Biomasa** *`B`*: Corresponde a la **cantidad de materia o energía** que se encuentra en el ecosistema o en sus distintos niveles. Se utiliza una medida distinta según sea un ecosistema marino o terrestre. Para el escosistema terrestre, se mide por unidad de **superficie** y para el marino, de **volumen**:  
+  
+  > La fórmula para calcular la biomasa es la siguiente:  
+![](http://i.imgur.com/Xx2yI8y.png)  
+Las unidades posibles son estas:  
+![](http://i.imgur.com/dYL0uvq.png)  
+La conversión entre la unidad de masa y energía se realiza aplicando la relación:  
+![](http://i.imgur.com/L2ogbYV.png)  
+`1cal → 4184J` `1J → 0.239cal`  
 
+  * **Producción** *`P`*: Mide el incremento de biomasa que se ha producido en un tiempo determinado:  
+  
+  > ![](http://i.imgur.com/5uLx1ek.png)  
+
+  La producción puede referirse a la **variación de biomasa** que se porduce exclusivamente en un nivel trófico o al conjunto de los mismos en un ecosistema. Dependiendo de si se trata de la productividad **bruta** o **neta**, nos proporcionará información de la energía que **obtiene** un nivel o la que **pone a disposición** del siguiente. Detalladamente, las distintas producciones se clasifican de la siguiente forma:  
+  
+  |  Nivel Trófico  |                  Producción Bruta                  |                        Producción Neta                        |
+|----------------:|:-------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| Productores     | *`PPB`* Energía lumínica que **incide** en el ecosistema y es captada por los productores | *`PPN`* Materia orgánica **disponible tras la respiración** |
+| Consumidores    | *`PSB`* Materia orgánica que **ingieren** los consumidores     | *`PSN`* Toda la materia **disponible** para otros consumidores o descomponedores |
+| Descomponedores | *`PTB`* Toda la materia orgánica **desechada** del ecosistema que es aprovechada por los descomponedores | *`PTN`* **No** dejan materia orgánica  |
+| Ecosistema      | *`PEB`* Biomasa que se reutiliza, es poco representativo       | *`PEN`* Materia que **permanece** después de pasar por todos los niveles  |
+
+  * **Productividad** *`Pd`*: Es el porcentaje de **biomasa producida con respecto a la que había inicialmente**.  
+  Un ecosistema con una productividad muy elevada está en **expansión**, si es baja pierde biomasa y se dice que está en **regresión**.
+  
+  > ![](http://i.imgur.com/vASZrf8.png)    
+  
+  * **Eficiencia** *`Ef`*: Es la relación que existe entre la energía que se **asimila** en un nivel con respecto a la total que puede **obtener**. Puede expresarse como porcentaje:  
+  
+  > ![](http://i.imgur.com/ZvlWaCx.png)  
 
 ### Pirámides ecológicas:  
-
+Las pirámides ecológicas o pirámides tróficas, son representaciones gráficas de una característica cuantificable de un ecosistema. Las características que se suelen representar para un ecosistema son:  
+  * **Cantidad de individuos** de cada nivel trófico:  
+  ![](http://2.bp.blogspot.com/-nprfa-P2M38/U4-GiOrllrI/AAAAAAAAA5g/f3BdR-USBXI/s1600/49.+Pir%C3%A1mides+Tr%C3%B3ficas+3.png)  
+  * **Biomasa** acumulada en cada nivel:  
+  ![](http://1.bp.blogspot.com/-ktzVRyWe6Y4/U4-Gc2qUkMI/AAAAAAAAA5Y/kEN6P6P_JFg/s1600/48.+Pir%C3%A1mides+Tr%C3%B3ficas+2.png)  
+  * **Energía** present en cada nivel:  
+  ![](http://3.bp.blogspot.com/-v8GDJMw5qVM/U4-GUNRF_VI/AAAAAAAAA5U/PjDRdLAPJXU/s1600/47.+Pir%25C3%25A1mides+Tr%25C3%25B3ficas+1.png)  
 
 ### Ciclos biogeoquímicos:  
-
+Son **recorridos cerrados** de los **elementos químicos** en un ecosistema.  
+Parten de una zona concentrada en la que el elemento permanece el mayor tiempo llamada **sumidero** o ***reservorio***.  
 
 #### Ciclo del carbono:  
-
+El reservorio es el **CO<sub>2</sub>** atmosférico, que aprovechan los productores en la fotosíntesis. En cualquier proceso de combustión u oxidación el **CO<sub>2</sub>** se devuelve a la atmósfera.  
+El **carbono orgánico** *(contenido en la molécula de glucosa, principalmente)* que se produce en la fotosíntesis, pasa a todos los niveles tróficos mediante la alimentación de los mismos, que lo devuelven a la atmósfera o generan restos orgánicos. Los restos pueden ser aprovechados por los descomponedores o pueden ser **carbonizados** por bacterias anaerobias, formando **carbono orgánico fósil**, también conocido como ***combustible orgánico***.  
+Por otro lado, la **carbonatación** contribuye a la formación de carbonatos, que dan lugar a rocas. El vulcanismo y otras actividades geológicas pueden hacer que ese **CO<sub>2</sub>** almacenado regrese al sumidero atmosférico.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Carbon_cycle-cute_diagram-espanol.svg/1280px-Carbon_cycle-cute_diagram-espanol.svg.png)  
 
 #### Ciclo del nitrógeno:  
+Al igual que en el ciclo anterior, el reservorio es la atmósfera, con un alto contenido en **N<sub>2</sub>**. Para pasar ese **N<sub>2</sub>** a los nitratos se produce la **fijación**:  
+  * **Fijación abiótica**: mayoritariamente, se obtiene la energía para fijar el **N<sub>2</sub>** de la electricidad de las tormentas. Se produce de una forma natural y no está influida por la acción de seres vivos.  
+  * **Fijación biótica**: las bacterias acuáticas *(cianobacterias)* y terrestres *(Rhizobium)* son las que fijan el **N<sub>2</sub>** dando lugar a **NH<sub>3</sub>** o **NO<sub>3</sub><sup>-</sup>**.  
 
+Los nitratos ya fijados, se aprovechan en la fotosíntesis para formar nitrógeno orgánico en forma de **proteínas**, transferidas a todos los niveles tróficos por alimentación. El nitrógneo llega a los descomponedores como amonio **NH<sub>4</sub><sup>+</sup>** desechado y éstos realizan su nitrificación para transformarlos en nitritos **NO<sub>2</sub><sup>-</sup>**. Las bacterias **nitrificantes** crean nitratos **NO<sub>3</sub><sup>-</sup>** a partir de estos nitritos.  
+En los ecosistemas también hay bacterias **desnitrificadoras**, que pasan los nitratos a nitrógeno atmosférico, resultando perjudiciales para los cultivos de productores.  
+Todo esto constituye el ciclo del nitrógeno que es de suma importancia para la vida de un ecosistema.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ciclo_del_nitr%C3%B3geno.svg/1280px-Ciclo_del_nitr%C3%B3geno.svg.png)  
 
 ### Cambios en los ecosistemas:  
 
-
 #### Cambios en las poblaciones:  
+Se producen en los individuos de una misma especie que habitan en un ecosistema.  
+Habitualmente los que medimos están referidos al tamaño de la población:  
+  * **Número de individuos** *`N`*: Suma total de los seres vivos que componen una población.  
+  ![](http://i.imgur.com/YrWyaFh.png)  
+  ![](http://i.imgur.com/DBOEmyA.png)  
+  * **Densidad**: Individuos por cada unidad de superficie o volumen.  
+  ![](http://i.imgur.com/XXfjJRJ.png)  
+  * **Variación de individuos**:  
+  ![](http://i.imgur.com/4OFSuWg.png)  
+  Se representa gráficamente mediante *N* con respecto al tiempo:  
+  ![](http://images.slideplayer.es/4/1489899/slides/slide_25.jpg)  
 
+La **resistencia ambiental** es el conjunto de factores que impiden a una población alcanzar el potencial biótico. Regulan la capacidad reproductiva de una población de manera limitante. El total de población permanecerá fluctuante entorno a este valor, denominado **`k`**.  
+Para conseguir el progreso en un ecosistema, se llevan a cabo dos tipos distintos de **estrategias de supervivencia**:  
+  * **Estrategia en `R`**: Se basan en su potencial biótico para prosperar.  
+  ![](http://i.imgur.com/rkKYJFI.png)  
+  * **Estrategia en `K`**: Se basan en el límite de capacidad del medio formado por la resistencia ambiental.  
+  ![](http://i.imgur.com/XJJcIoJ.png)  
+
+#### Cambios en las comunidades:  
+Estos cambios están relacionados con el **número de especies** que conviven en una comunidad.  
+Las características cuantificables que se miden son:  
+  * **Biodiversidad**: Número de especies distintas en relación con el total de individuos.  
+  ![](http://i.imgur.com/6WgE1mu.png)  
+  * **Abundancia**: individuos de una misma especie entre el total.  
+  ![](http://i.imgur.com/knS2n4I.png)  
 
 #### Sucesiones ecológicas:  
-
+Son el conjunto de cambios en el ecosistema a lo largo del tiempo. Afectan a la biodiversidad y a la abundancia de las especies.  
+En un ecosistema que comienza a desarrollarse, los primeros seres vivos son **productores pioneros**, como líquenes y musgos. El terreno se va modificando como para que se puedan instalar ya otros productores de pequeño tamaño.  
+El ecosistema madura conforme se van instalando seres vivos de mayor porte, como arbustos y pequeños animales.  
+El final ideal de un ecosistema se denomina **clímax** y en él, se alcanza la máxima biodiversidad y abundancia.  
+En caso de producirse una **sucesión inversa**, el cambio se denomina **regresión**. Puede ser producida por la acción de un factor natural o una actividad humana.  
+Después de una regresión, el ecosistema vuelve a desarrollarse en una sucesión secundaria, que parte de los restos de la anterior.
