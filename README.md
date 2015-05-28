@@ -41,8 +41,8 @@ Repositorio de trabajos personales con finalidad educativa.
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Genetica/Problemas%20de%20gen%C3%A9tica.md)
     - [x] [Evolución](./Biologia-y-Geologia/Evolucion/Evolución.md#la-evolución-de-los-seres-vivos)  
     [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Evolucion/Evoluci%C3%B3n.md)  
-    - [ ] [Ecología](./Biologia-y-Geologia/Ecologia/Ecología.md#ecología)  
-    [**](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Ecologia/Ecolog%C3%ADa.md)  
+    - [x] [Ecología](./Biologia-y-Geologia/Ecologia/Ecología.md#ecología)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Biologia-y-Geologia/Ecologia/Ecolog%C3%ADa.md)  
   * **Lengua y Literatura**:
     - [x] [Literatura realista](./Lengua/Esquema%20-%20Literatura%20Realista.md#la-literatura-realista)
     * Episodios Nacioneles:
