@@ -183,9 +183,9 @@ Los parámetros tróficos son las unidades que se emplean para poermitirnos medi
   * **Biomasa** *`B`*: Corresponde a la **cantidad de materia o energía** que se encuentra en el ecosistema o en sus distintos niveles. Se utiliza una medida distinta según sea un ecosistema marino o terrestre. Para el escosistema terrestre, se mide por unidad de **superficie** y para el marino, de **volumen**:  
   
   > La fórmula para calcular la biomasa es la siguiente:  
-![](http://i.imgur.com/Xx2yI8y.png)  
+![](http://i.imgur.com/yvz7HeV.png)  
 Las unidades posibles son estas:  
-![](http://i.imgur.com/dYL0uvq.png)  
+![](http://i.imgur.com/XjCW4a4.png)  
 La conversión entre la unidad de masa y energía se realiza aplicando la relación:  
 ![](http://i.imgur.com/L2ogbYV.png)  
 `1cal → 4184J` `1J → 0.239cal`  
