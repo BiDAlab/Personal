@@ -152,9 +152,9 @@ Los parámetros tróficos son las unidades que se emplean para poermitirnos medi
   * **Biomasa** *`B`*: Corresponde a la **cantidad de materia o energía** que se encuentra en el ecosistema o en sus distintos niveles. Se utiliza una medida distinta según sea un ecosistema marino o terrestre. Para el escosistema terrestre, se mide por unidad de **superficie** y para el marino, de **volumen**:  
   
   > La fórmula para calcular la biomasa es la siguiente:  
-![](http://i.imgur.com/Xx2yI8y.png)  
+![](http://i.imgur.com/yvz7HeV.png)  
 Las unidades posibles son estas:  
-![](http://i.imgur.com/dYL0uvq.png)  
+![](http://i.imgur.com/XjCW4a4.png)  
 La conversión entre la unidad de masa y energía se realiza aplicando la relación:  
 ![](http://i.imgur.com/L2ogbYV.png)  
 `1cal → 4184J` `1J → 0.239cal`  
@@ -181,7 +181,7 @@ Las pirámides ecológicas o pirámides tróficas, son representaciones gráfica
   ![](http://2.bp.blogspot.com/-nprfa-P2M38/U4-GiOrllrI/AAAAAAAAA5g/f3BdR-USBXI/s1600/49.+Pir%C3%A1mides+Tr%C3%B3ficas+3.png)  
   * **Biomasa** acumulada en cada nivel:  
   ![](http://1.bp.blogspot.com/-ktzVRyWe6Y4/U4-Gc2qUkMI/AAAAAAAAA5Y/kEN6P6P_JFg/s1600/48.+Pir%C3%A1mides+Tr%C3%B3ficas+2.png)  
-  * **Energía** present en cada nivel:  
+  * **Energía** presente en cada nivel:  
   ![](http://3.bp.blogspot.com/-v8GDJMw5qVM/U4-GUNRF_VI/AAAAAAAAA5U/PjDRdLAPJXU/s1600/47.+Pir%25C3%25A1mides+Tr%25C3%25B3ficas+1.png)  
 
 ### Ciclos biogeoquímicos:  
