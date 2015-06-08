@@ -54,3 +54,4 @@ Repositorio de trabajos personales con finalidad educativa.
   * **Ética**:
     - [x] [Ética Social](./Etica/%C3%89tica%20Social.md#%C3%89tica-social)  
     - [x] [Teorías Éticas](./Etica/Teor%C3%ADas%20%C3%A9ticas.md#teor%C3%ADas-%C3%A9ticas)  
+    - [x] [Derechos Humanos](./Etica/Derechos%20Humanos.md#derechos-humanos)  
