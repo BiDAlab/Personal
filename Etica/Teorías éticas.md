@@ -32,6 +32,10 @@ Llevó la libertad hasta el último extremo. Enunció que las propiedades eran m
   * **La felicidad como placer** (Hedonismo o Epicureísmo): Epicuro (`IV a.C.`).  
   Consiste en la búsqueda de placer evitando el dolor. Ambos pueden ser **físicos** o **anímicos**.  
 Es necesario hacer un cálculo de placeres (que valora el dolor que pueden conllevar algunos placeres). Lo más desable es un placer que no lleve dolor, al contrario, un dolor sin placer es fatídico. Aquellos placeres que **perduran** son más favorables, suelen ser los del intelecto.  
+Existen tres causas del dolor:  
+    1.  Miedo a los dioses: los dioses no intervienen en el mundo, por lo que no hay que temerlos.  
+    2.  [Miedo a la muerte](https://www.youtube.com/watch?v=fABRI50hr9g): la muerte no está mientras estemos nosotros.  
+    3.  Temor al dolor: no hay que martirizarse por un fallo.  
   * **La felicidad como utilidad** (Utilitarismo): John Stuart Mill (`XIX`).  
   Busca la utilidad aplicada a los objetos, cuanto más útiles son más feliz se vive. No se ha de confundir con el ser materialista.  
 La utilidad aplicada a las personas nos dice que no pueden sacrificarse en beneficio de ninguna otra (aunque sea mayoritaria).  
