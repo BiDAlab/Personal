@@ -24,11 +24,11 @@ Toda teoría ética, para estar completa, debe responder a las siguientes cuesti
 Para lograr la felicidad hay que tener las necesidades básicas cubiertas. También hace falta la **virtud** (excelencia en los actos), que en el hombre equivale a actuar bien.  
 Para actuar con virtud hay que buscar siempre el **término medio** en cada situación que vivimos. Es un hábito de nuestro carácter que se practica con la **prudencia**.
   * **La felicidad como autosuficiencia**: Diógenes (cinismo), Marco Aurelio y Séneca (estoicismo)  
-  Consiste en entender que el fin de nuestras acciones es ser **libres** y **autónomos**. Se practica la búsqueda de la **libertad absoluta**, vivir de acuerdo a la naturaleza.
+Consiste en entender que el fin de nuestras acciones es ser **libres** y **autónomos**. Se practica la búsqueda de la **libertad absoluta**, vivir de acuerdo a la naturaleza.  
     * Cinismo *`Kynikós`*: Diógenes (`IV a.C.`).  
-    Llevó la libertad hasta el último extremo. Enunció que las propiedades eran malas porque te hacen esclavos de ellas.  
+Llevó la libertad hasta el último extremo. Enunció que las propiedades eran malas porque te hacen esclavos de ellas.  
     * Estoicismo: Zenón (`IV a.C.`), Séneca (`I d.C.`) y Marco Aurelio (`II d.C.`).  
-    Búsqueda de la paz interior imperturbable (**ataraxia**), abstinencia de los placeres, soporte y aguante. Apoyaban favorablemente la vida en sociedad.  
+  Búsqueda de la paz interior imperturbable (**ataraxia**), abstinencia de los placeres, soporte y aguante. Apoyaban favorablemente la vida en sociedad.  
   * **La felicidad como placer** (Hedonismo o Epicureísmo): Epicuro (`IV a.C.`).  
   Consiste en la búsqueda de placer evitando el dolor. Ambos pueden ser **físicos** o **anímicos**.  
 Es necesario hacer un cálculo de placeres (que valora el dolor que pueden conllevar algunos placeres). Lo más desable es un placer que no lleve dolor, al contrario, un dolor sin placer es fatídico. Aquellos placeres que **perduran** son más favorables, suelen ser los del intelecto.  
