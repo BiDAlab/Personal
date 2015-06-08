@@ -53,5 +53,8 @@ Repositorio de trabajos personales con finalidad educativa.
     - [x] [Circuitos integrados](./Tecnologia/Integrated%20Circuits%2074%20equivalence%20to%2040%20series.md#integrated-digital-circuits-tll-equivalence-74-series-to-40)  
   * **Ética**:
     - [x] [Ética Social](./Etica/%C3%89tica%20Social.md#%C3%89tica-social)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Etica/%C3%89tica%20Social.md)  
     - [x] [Teorías Éticas](./Etica/Teor%C3%ADas%20%C3%A9ticas.md#teor%C3%ADas-%C3%A9ticas)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Etica/Teor%C3%ADas%20%C3%A9ticas.md)  
     - [x] [Derechos Humanos](./Etica/Derechos%20Humanos.md#derechos-humanos)  
+    [*Versión PDF*](https://gitprint.com/KaliNuska/Personal/blob/print/Etica/Derechos%20Humanos.md)  
