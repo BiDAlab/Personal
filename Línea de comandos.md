@@ -1,53 +1,49 @@
 # Línea de comandos:
-    The command line is a text interface for the computer's operating system. To access the command line, we use the terminal.
-    A filesystem organizes a computer's files and directories into a tree structure. It starts with the root directory. Each parent directory can contain more child directories and files.
-    From the command line, you can navigate through files and folders on your computer:
-        pwd outputs the name of the current working directory.
-        ls lists all files and directories in the working directory.
-        ls command has several more options. Here are three common options:
+La ***línea de comandos*** es una interfaz de texto del sistema operativo del ordenador. Para acceder a la línea de comandos utilizamos *terminal*.
+Los archivos del equipo están organizados en un sistema de directorios organizados en una estructura en árbol, que comienza en el directorio *raíz* o *root*. Cada directorio padre puede contener más directorios hijos y archivos.
+Desde la línea de comandos se puede navegar por el sistema de directorios:
 
-        cd switches you into the directory you specify.
-        mkdir creates a new directory in the working directory.
-        touch creates a new file inside the working directory.
+ * `pwd` muestra la ruta del directorio de trabajo actual.
+ * `ls` revela todos los archivos y directorios del directorio de trabajo actual.
+   Tiene las siguientes opciones:
+    * `ls -a` revela todos los contenidos del directorio de trabajo, incluyendo archivos y carpetas ocultas.
+    * `ls -l` revela todos los contenidos del directorio de trabajo incluyendo sus propiedades.
+    * `ls -t` ordena los archivos y directorios del directorio de trabajo por su fecha de modificación.  
+ Pueden usarse varias opciones al mismo tiempo: `ls -alt`.
+ * `cd` te dirige al directorio que se especifica a continuación.
+ * `mkdir` crea un nuevo directorio en el directorio de trabajo.
+ * `touch` crea un nuevo archivo en el directorio de trabajo.
 
-    Options modify the behavior of commands:
-        ls -a lists all contents of a directory, including hidden files and directories
-        ls -l lists all contents in long format
-        ls -t orders files and directories by the time they were last modified
-        Multiple options can be used together, like ls -alt
-    From the command line, you can also copy, move, and remove files and directories:
-        cp copies files
-        mv moves and renames files
-        rm removes files
-        rm -r removes directories
-    Wildcards are useful for selecting groups of files and directories
-    
+Desde la línea de comandos se pueden copiar, mover y eliminar archivos y directorios:
+ * `cp` copia archivos.
+ * `mv` mueve y renombra archivos.
+ * `rm` elimina archivos.
+ * `rm -r` elimina directorios completos.
 
-    Redirection reroutes standard input, standard output, and standard error.
+El símbolo asterisco `*` se utiliza para seleccionar grupos de archivos o directorios.
 
-    The common redirection commands are:
-        > redirects standard output of a command to a file, overwriting previous content.
-        >> redirects standard output of a command to a file, appending new content to old content.
-        < redirects standard input to a command.
-        | redirects standard output of a command to another command.
+Existe la posibilidad de redireccionar el *standard input*, el *standard output* y el *standard error* de la siguiente manera:
 
-    A number of other commands are powerful when combined with redirection commands:
-        sort: sorts lines of text alphabetically.
-        uniq: filters duplicate, adjacent lines of text.
-        grep: searches for a text pattern and outputs it.
-        sed : searches for a text pattern, modifies it, and outputs it.
+ * `>` redirecciona el *standard output* de un comando a un archivo sobreescribiendo el contenido.
+ * `>>` redirecciona el *standard output* de un comando a un archivo añadiendo el nuevo contenido a continuación.
+ * `<` redirecciona el *standard input* a un comando.
+ * `|` redirecciona el *standard output* de un comando a otro comando.
 
+Hay otros comandos muy útiles cuando se usan conjuntamente con las redirecciones:
 
-    The environment refers to the preferences and settings of the current user.
+ * `sort` ordena las líneas de un texto alfabéticamente.
+ * `uniq` filtra las líneas consecutivas que están repetidas.
+ * `grep` busca y muestra el texto que sigue un patrón indicado.
+ * `sed` modifica y muestra el texto que sigue un patrón indicado.
 
-    The nano editor is a command line text editor used to configure the environment.
+El *entorno* o *environment* se refiere a las configuraciones y preferencias del usuario.  
+El editor de texto de línea de texto `nano`, se emplea para configurar el entorno.  
+`~/.bash_profile` es el lugar donde se almacenan las configuraciones del entorno. Puede ser editado empleando `nano`.  
+Las *variables de entorno* o *environment variables* son variables que se pueden incluir en comandos y programas y contienen información sobre el entorno.
 
-    ~/.bash_profile is where environment settings are stored. You can edit this file with nano.
-
-    environment variables are variables that can be used across commands and programs and hold information about the environment.
-        export VARIABLE="Value" sets and exports an environment variable.
-        USER is the name of the current user.
-        PS1 is the command prompt.
-        HOME is the home directory. It is usually not customized.
-        PATH returns a colon separated list of file paths. It is customized in advanced cases.
-        env returns a list of environment variables.
+ * `export VARIABLE="Value"` crea una variable de entorno.
+ * `USER` es el nombre del usuario actual.
+ * `PS1` es el marcador de la línea de comandos.
+ * `HOME` es el directorio principal. No debe ser modificado.
+ * `PATH` revela una lista de las rutas de archivos separadas por comas. Se puede modificar para usos avanzados.
+ * `env` revela una lista con las variables de entorno.
