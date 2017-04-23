@@ -1,7 +1,7 @@
 ### English:
 **Steps to be followed in order to flash the latest software for `Doogee X5 max`, root and recover `IMEI` number:**
 
-1. Download and extract this file: [<enlace>]().
+1. Download and extract this file: [http://www.mediafire.com/file/cx40cjbzng038nm/Files_-_X5_max.zip](http://www.mediafire.com/file/cx40cjbzng038nm/Files_-_X5_max.zip).
 2. Install the drivers by running `InstallDriver.exe` or `installdrv64.exe` from `MT6577 USB VCOM drivers`.
 3. Run `flash_tool.exe` from `SP-Flash-Tool`.
 4. Load the `*.txt` of the ROM to be flashed by pressing `Scatter-loading. It's located in `DOOGEE\MP_mt6580_w370_a48-01_daoge_cc_64gbitp8d3_m_wcdma_mul_20170330-112347_songlixin_PC`.
@@ -42,7 +42,7 @@
 ### Español:
 **Los pasos a seguir para flashear la última versión de software para el terminal `Doogee X5 max`, rootearlo *(adquirir privilegios de administrador)* y recuperar el número `IMEI` *(necesario para utilizar servicios de telefonía)* son los siguientes:**  
 
-1. Descargar y descomprimir la siguiente carpeta comprimida: [<enlace>]().
+1. Descargar y descomprimir la siguiente carpeta comprimida: [http://www.mediafire.com/file/cx40cjbzng038nm/Files_-_X5_max.zip](http://www.mediafire.com/file/cx40cjbzng038nm/Files_-_X5_max.zip).
 2. Instalar los drivers en el ordenador ejecutando `InstallDriver.exe` o `installdrv64.exe` del directorio `MT6577 USB VCOM drivers`.
 3. Abrir flash_tool.exe de `SP-Flash-Tool`.
 4. Examinar el *.txt del flash en `Scatter-loading. Éste se encuentra en `DOOGEE\MP_mt6580_w370_a48-01_daoge_cc_64gbitp8d3_m_wcdma_mul_20170330-112347_songlixin_PC`.
