@@ -1,6 +1,6 @@
 ## Important loot from ROTMG:
- * [Cyan]
- * [White]
+ * [Cyan](ROTMG - Loot.md#cyan)
+ * [White](ROTMG - Loot.md#white)
 
 ### Cyan:
 |           Cyan list           | Obtained: |
