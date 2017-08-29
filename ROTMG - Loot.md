@@ -135,7 +135,7 @@
 | Ray Katana                  |           |
 | Arbiters Wrath              |           |
 | Void Blade                  |           |
-| Cloak Of The Planewalker    | 2         |
+| Cloak Of The Planewalker    | 3         |
 | Cloak Of Bloody Surprises   |           |
 | Beehemoth Quiver            |           |
 | Quiver Of Thunder           |           |
