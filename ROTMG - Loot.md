@@ -103,7 +103,7 @@
 | Coral Bow                   |           |
 | Bow Of The Void             |           |
 | Robobow                     |           |
-| Clover Bow                  |           |
+| Clover Bow                  | 1         |
 | Bow Of The Morning Star     |           |
 | Arctic Bow                  |           |
 | Staff Of Esben              |           |
