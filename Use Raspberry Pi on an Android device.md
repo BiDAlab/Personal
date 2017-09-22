@@ -40,6 +40,47 @@ sudo nano vncboot
 
 Paste the following into the file (change export USER=’pi’ to your username if not pi, and edit the screen resolution in the start) block if necessary):
 
+```
+ 
+#! /bin/sh
+### BEGIN INIT INFO
+# Provides:          vncboot
+# Required-Start:    $local_fs
+# Required-Stop:     $local_fs
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Run tightvnc on boot
+### END INIT INFO
+ 
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/bin
+export USER='pi'
+ 
+eval cd ~$USER
+ 
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+ 
+case "$1" in
+  start)
+    log_begin_msg "Starting VNC server"
+    su $USER -c '/usr/bin/vncserver :1 -geometry 1680x1050 -depth 24'
+    log_end_msg $?
+    exit 0
+    ;;
+  stop)
+    pkill Xtightvnc
+    log_begin_msg "Stopping VNC server"
+    log_end_msg $?
+    exit 0
+    ;;
+  *)
+    echo "Usage: /etc/init.d/vncboot {start|stop}"
+    exit 1
+    ;;
+esac
+ 
+```
+
 Save this file, then update its permissions:
 
 ```
