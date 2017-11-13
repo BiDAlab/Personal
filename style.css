@@ -1,0 +1,159 @@
+body {
+    margin-bottom: 15px;
+    font-family: "Nova Flat", cursive;
+}
+
+h1, h2 {
+    font-family: Orbitron, sans-serif;
+    padding: 10px 3% 5px 5%;
+    text-decoration: underline;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin: 0 4%;
+}
+
+h1 {
+    text-align: center;
+    color: cadetblue;
+    font-size: 200%;
+    background-color: palegoldenrod;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.3),
+    0 4px 15px 0 rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+    color: teal;
+    font-size: 150%;
+}
+
+p {
+    font-family: "Nova Flat", cursive;
+    padding: 2px 3% 0px 3%;
+    margin: 10px 4%;
+}
+
+table {
+    margin-top: 7px;
+    font-family: "Architects Daughter", cursive;
+    border: 2px solid teal;
+    border-radius: 4px;
+}
+
+th {
+    background-color: palegoldenrod;
+    outline: 1px solid palegoldenrod;
+}
+
+td, tr {
+    outline: 1px solid cadetblue;
+    padding: 1px 30px 2px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-shadow: 1px 1px teal;
+    font-weight: bold;
+}
+
+code {
+    background-color: indianred;
+    outline: 1px solid teal;
+    padding: 0 3px;
+}
+
+code:hover {
+    font-weight: bold;
+    outline: 2px solid teal;
+}
+
+img {
+    filter: grayscale(30%);
+}
+
+img:hover {
+    filter: grayscale(00%);
+    filter: blur(1px);
+}
+
+blockquote {
+    border-left: 2px solid cadetblue;
+    padding: 10px 60px 8px 30px;
+    background-color: indianred;
+    border-radius: 5px;
+    border-top-right-radius: 20px;
+    margin: 0 7%;
+}
+
+li {
+    margin: 4px 0;
+}
+
+hr {
+    margin: 15px 7% 10px 7%;
+    height: 8px;
+    border-style: solid;
+    border-color: teal;
+    border-radius: 5px;
+    border-width: 4px 2px 4px 2px;
+    border-style: solid;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3),
+    0 3px 10px 0 rgba(0, 0, 0, 0.4);
+}
+
+#WELCOME {
+    border-left: 30px solid cadetblue;
+    border-right: 20px solid cadetblue;
+    border-radius: 15px;
+    font-variant: small-caps;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3),
+    0 6px 10px 0 rgba(0, 0, 0, 0.4);
+    margin: 25px 3%;
+    background-color: teal;
+}
+
+#WELCOME:hover {
+    letter-spacing: 1px;
+    border-left: 35px solid cadetblue;
+    border-right: 25px solid cadetblue;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+    0 6px 10px 0 rgba(0, 0, 0, 0.6);
+}
+
+#SUBWELCOME {
+    border-left: 30px solid salmon;
+    border-right: 20px solid salmon;
+    border-radius: 15px;
+    font-variant: small-caps;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3),
+    0 6px 10px 0 rgba(0, 0, 0, 0.4);
+    margin: 25px 13%;
+    background-color: indianred; 
+}
+
+#SUBWELCOME:hover {
+    letter-spacing: 1px;
+    border-left: 35px solid salmon;
+    border-right: 25px solid salmon;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+    0 6px 10px 0 rgba(0, 0, 0, 0.6);
+}
+
+#indianred {color: indianred;
+}
+
+#salmon {color: salmon;
+}
+
+#palegoldenrod {color: palegoldenrod;
+}
+
+#cadetblue {color: cadetblue;
+}
+
+#teal {color: teal;}

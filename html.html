@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="fonts.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>My HTML web</title>
+</head>
+<body style="background-color: salmon;">
+  <div><a id="welcome" class="anchor"></a>
+  <p id="WELCOME" style="color: palegoldenrod; font-family: Orbitron,
+    sans-serif; font-size: 2em; font-weight: bold; padding: 4px 5% 6px; 
+    text-align: center; background-color: teal;">
+    Welcome to my page about HTML
+  </p>
+  <p id="SUBWELCOME" style="color: palegoldenrod; font-family: Orbitron,
+    sans-serif; font-size: 2em; font-weight: bold; padding: 4px 5% 6px; 
+    text-align: center; background-color: indianred;">
+    <a href="css.html">Go to my page about CSS</a>
+  </p>
+  </div>
+    <!--Header 1-->
+    <h1>
+        <a id="content" class="anchor"></a>
+        Content of a HTML webpage  
+    </h1>
+    <div style="align-content: justify">
+      <p>
+      This is a webpage for ex5. The following text is used to fill the text 
+      of a webpage without containing the definitive version of the text, as a 
+      style and layout test.
+      <br>
+      It comes from Latin.
+      <br>
+      </p>
+      <blockquote style="text-align: justify;">
+        <i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+        aliquip ex ea commodo consequat. Duis aute irure dolor in 
+        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+        culpa qui officia deserunt mollit anim id est laborum.</i>
+      </blockquote>
+      <p>Here is some more info: 
+        <a href="http://en.lipsum.com/" target="_blank">
+        en.lipsum.com</a>.
+      </p>
+    </div>
+    <!--Header 1-->
+    <h1><a id="line" class="anchor"></a>Horizontal line</h1>
+    <p>It is mainly used to separate contents within a web:</p>
+    <hr>
+    <!--Header 1-->
+    <h1><a id="index" class="anchor"></a>Index of the HTML webpage</h1>
+    <p>We usually use the code <code>&lt;blockquote&gt;</code> in order to 
+    display the list of contents of a webpage.
+    This list contains links to every element of the webpage:</p>
+    <!--List of contents-->
+    <blockquote>
+      <!--Numbered list-->
+      <ol>
+        <!--Elements of the list-->
+        <li><a href="#welcome">Welcome text</a></li>
+        <li><a href="#content">Common content of a HTML page</a></li>
+        <li><a href="#line">Horizontal line</a></li>
+        <li><a href="#index">Index of the HTML page</a></li>
+        <li><a href="#tables">Tables in HTML</a></li>
+        <li><a href="#images">Inserting images</a></li>
+        <li><a href="#audio">Background audio playback</a></li>
+        <li><a href="#video">Video from YouTube</a></li>
+        <li>Sub-indexes:<br>
+          <!--Bullet list-->
+          <ul>
+            <li><a href="#credits">Credits</a></li>
+            <li><a href="#license">License</a></li>
+          </ul>
+        </li>
+      </ol>
+    </blockquote>
+    <br>
+    <!--Header 1-->
+    <h1><a id="tables" class="anchor"></a>Tables in HTML</h1>
+    <table style="margin-left: 15%">
+      <caption><b>Marks table</b></caption>
+      <thead>
+        <tr>
+          <th>Student 1</th>
+          <th>Student 2</th>
+          <th>Student 3</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><code>8.5</code></td>
+          <td><code>7.3</code></td>
+          <td><code>6.1</code></td>
+        </tr>
+        <tr>
+          <td><code>5.0</code></td>
+          <td><code>7.3</code></td>
+          <td><code>9.6</code></td>
+        </tr>
+        <tr>
+          <td><code>9.5</code></td>
+          <td><code>8.75</code></td>
+          <td><code>8.0</code></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td><code>7.7</code></td>
+          <td><code>7.8</code></td>
+          <td><code>7.9</code></td>
+        </tr>
+      </tfoot>
+    </table>
+    <table style="margin-left: 10%">
+      <caption><b>Costs table</b></caption>
+      <thead>
+        <tr>
+          <th><b>Concept</b></th>
+          <th><b>Unit cost</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Design</td>
+          <td><code>5 £</code></td>
+        </tr>
+        <tr>
+          <td>First promotion campaign</td>
+          <td><code>15 £</code></td>
+        </tr>
+        <tr>
+          <td>Second promotion campaign</td>
+          <td><code>12 £</code></td>
+        </tr>
+        <tr>
+          <td>Selling</td>
+          <td><code>2 £</code></td>
+        </tr>
+        <tr>
+          <td>Taxes</td>
+          <td><code>11.7579 £</code></td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Final price</td>
+          <td><code>55.99 £</code></td>
+        </tr>
+      </tfoot>
+    </table>
+    <br>
+    <!--Header 1-->
+    <h1><a id="images" class="anchor"></a>Inserting images</h1>
+    <br>
+    <p>Images can be inserted using the tag <code>&lt;a&gt;</code>.
+    The following image is stored in the directory 
+    <i>media</i>.
+    <br>
+    When you right-click on it, it redirects to an external webpage with some 
+    information about HTML5:</p>
+    <a href="https://www.w3.org/TR/html5/Overview.html#contents" 
+    target="_blank">
+      <img src="IMG/future.png" 
+      alt="I've seen the future, it's inside my browser." 
+      style="display: block; border-radius: 20px;
+      max-width: 50%;
+      height: auto; margin: auto;
+      box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.3), 
+      2px 6px 20px 4px rgba(0, 0, 0, 0.4);">
+    </a>
+    <br>
+    <!--Header 1-->
+    <h1><a id="audio" class="anchor"></a>Background audio playback</h1>
+    <br>
+    <p>Use the control buttons to enhance your audio experience using the 
+    webpage:</p>
+    <div style="width: 13%; margin: auto">
+      <audio loop autoplay controls>
+        <source src="MEDIA/Hall.mp3" type="audio/mpeg">
+        Please use a different browser to play the audio file.
+      </audio>
+    </div>
+    <br>
+    <!--Header 1-->
+    <h1><a id="video" class="anchor"></a>Video from YouTube</h1>
+    <br>
+    <div style="width: 70%; margin: auto">
+      <iframe width="1280" height="720" src="https://www.youtube.com/embed/6YpSZ_fHGU0" allowfullscreen></iframe>
+    </div>
+    <hr>
+    <footer style="background-color: indianred; border-radius: 10px;
+    margin: 0 10% 0 10%;">
+      <h2 style="align-content: center">
+        <a id="credits" class="anchor"></a>Credits</h2>
+        <p style="align-content: center">This webpage has been made by 
+          <a href="https://github.com/KaliNuska" target="_blank">
+            <abbr title="Opens the link in a new tab">
+            Javier Pacheco</abbr></a>.</p>
+      <h2 style="align-content: center"><a id="license" class="anchor" 
+        href="#license" aria-hidden="true"></a>License</h2>
+      <p style="align-content: center">
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" 
+        title="This work is licensed under a Creative Commons 
+        Attribution-NonCommercial-ShareAlike 4.0 International License.">
+          <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" 
+          alt="This work is licensed under a Creative Commons 
+          Attribution-NonCommercial-ShareAlike 4.0 International License.">
+        </a>
+        <br>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" 
+        title="This work is licensed under a Creative Commons 
+        Attribution-NonCommercial-ShareAlike 4.0 International License.">
+          <i>This work is licensed under a Creative Commons 
+          Attribution-NonCommercial-ShareAlike 4.0 International License.</i>
+        </a>
+      </p>
+    </footer>
+    <iframe src="validate.html"
+    style="align-content: center; width: 60%; margin: auto;
+    display: block; border-radius: 0px;"></iframe>
+    <p>
+      <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+      </a>
+    </p>
+    <a href="#top" title="Top"><img src="IMG/arrow.png" 
+    alt="Top" style="display: block; margin-left: auto; margin-top: -40px;
+     margin-right: 2%; margin-bottom: 5px;"></a>
+  </body>
+</html>
