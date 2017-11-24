@@ -13,6 +13,7 @@
   - APIs integration (Google Maps)
   - User generated content as messages and threads
   - Pre generated content such as videos and routes
+  - [Example](https://www.letsride.co.uk/routes/discover-the-fallowfield-loop-line)
 
 ### Cons
   - Some features might be tricky to implement
@@ -33,12 +34,13 @@
   - Chat
   - Forum style
   - User Accounts
+  - [GPX File Format](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 
 ### User Actions
   - View a cycling track already uploaded.
   - Rate a cycling track already uploaded.
   - Comment on a cycling track already uploaded.
-  - Upload a new cycling track.
+  - Upload a new cycling track (using GPX technologhy).
   - Sort cycling tracks following different criteria.
   - Filter cycling tracks following different criteria.
   - Watch linked videos about bike repairs.
