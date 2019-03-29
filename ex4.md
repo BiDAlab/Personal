@@ -32,7 +32,7 @@ The  packages are what identify the application. They are objects that  contain 
 
 ### Part 4.2 [4 marks]
 In this part we modify the behaviour of the `Send` button to transmit to the server a `REGISTER myname` command. The `Kill` button is intended to close the app.
-![](task2.png)
+![Figure 1: Task 2 logcat.](task2.png "Figure 1: Task 2 logcat.")
 
 #### 1. Where did you store your fixed text message?
 The string of text is stored into the transmiterText  variable. However, it is in itself a reference to a string located in  the `res` directory to enable, as I mentioned earlier, translations and  all being in one place.
@@ -58,7 +58,7 @@ Because the `NetworkConnectionAndReceiver` thread is always being attached to th
 
 ### Part 4.3 [4 marks]
 In this part we enable to user to input their own text into a textbox field within the app and provide a title.
-![](task3.png)
+![Figure 2: Task 3 buttons.](task3.png "Figure 2: Task 3 buttons.")
 
 #### 1. How is your screen layout (however simple) made suitable for the application as developed so far?
 Top-to-bottom there is a title, a log of the server messages, a textbox and buttons to kill the application, register the entered username or see who is online. It all fits in one screen and is simple.
@@ -74,7 +74,7 @@ Firstly, the user is not able to find out who is online before registering with 
 Also, as there is no invite option, users can still not interact as the proxy enforces that they have a connection set up, which they don't.
 
 ### Part 4.4 [4 marks]
-![](task4.png)
+![Figure 3: Task 4 all commands.](task4.png "Figure 3: Task 4 all commands.")
 
 #### 1. What are the main features of your new layout and how do they work?
 The three previous buttons have been extended into six: Kill, register, who, accept, invite and msg.
@@ -88,7 +88,7 @@ Plus, the msg  command requires both users to be online at the same instant, thu
 Furthermore, the question is stating that the users will use the proxy server to interact with each other, while in reality this should be done with a connection that the server sets up.
 
 ### Part 4.5 [4 marks]
-![](task5.png)
+![Figure 4: Task 5 improvements.](task5.png "Figure 4: Task 5 improvements.")
 
 #### 1. What are your improvements?
 Because  it doesn't make sense to have all buttons available on the screen at  all times, as you can't even use some of them before registering or  before having a user to interact with, they should be displayed only  when they can be used. I've achieved this by making the buttons be faded  in black when the user should not interact with them. Even if they try,  they appear o not do anything.
