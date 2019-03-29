@@ -24,6 +24,7 @@ Instead,  they are considered a resource of the app, and they themselves get  st
 The  packages are what identify the application. They are objects that  contain all the information and specification of the app and that can be  used by the package installer to then install the package into a  device. Plus, as everything is self contained whithin  its package, it is easy to organise the structure of the app and keep  the tests in one place and the code in another, for example. For  instance, these test directories will preserve the naming of the package  but have appended the keyword *test* at the end.
 ### Part 4.2 [4 marks]
 In this part we modify the behaviour of the `Send` button to transmit to the server a `REGISTER myname` command. The `Kill` button is intended to close the app.
+![](task2.png)
 #### 1. Where did you store your fixed text message?
 The string of text is stored into the transmiterText  variable. However, it is in itself a reference to a string located in  the `res` directory to enable, as I mentioned earlier, translations and  all being in one place.
 #### 2. How did you check that the ‘btnSendCmd’ and ‘btnKill’ buttons had the desired effect?
@@ -43,6 +44,7 @@ Calling the `runOnUiThread` method will instantiate a new runnable object to be 
 Because the `NetworkConnectionAndReceiver` thread is always being attached to the main UI thread, whereas the Transmitter thread is only active whenever there is something to transmit.
 ### Part 4.3 [4 marks]
 In this part we enable to user to input their own text into a textbox field within the app and provide a title.
+![](task3.png)
 #### 1. How is your screen layout (however simple) made suitable for the application as developed so far?
 Top-to-bottom there is a title, a log of the server messages, a textbox and buttons to kill the application, register the entered username or see who is online. It all fits in one screen and is simple.
 #### 2. What happens if the proxy-server is not on-line?
@@ -53,6 +55,7 @@ When the server is running we get an error saying that you (meaning this usernam
 Firstly, the user is not able to find out who is online before registering with the server. Secondly, after closing the app and opening it again, you'd  have to choose a different username, thus a username  lasts only for the duration of the app running. And finally, not the  whole set of commands is set up, so the user cannot have interactions  with anyone just yet.
 Also, as there is no invite option, users can still not interact as the proxy enforces that they have a connection set up, which they don't.
 ### Part 4.4 [4 marks]
+![](task4.png)
 #### 1. What are the main features of your new layout and how do they work?
 The three previous buttons have been extended into six: Kill, register, who, accept, invite and msg.
 These new buttons have been mapped to the server in order to fetch the content from the textbox  and send it to the server with the right command appended to it. There  is no input validation up to this point so the errors are returned after  having established a communication with the server and it sending them  back.
@@ -61,6 +64,7 @@ A message really should be split into packages when it becomes long enough. The 
 Plus, the msg  command requires both users to be online at the same instant, thus  sending a large chunk of data would require them both to stay connected  for the entire duration of the transmission of that data to ensure it  arrives correctly. Otherwise parts of it would be chopped out.
 Furthermore, the question is stating that the users will use the proxy server to interact with each other, while in reality this should be done with a connection that the server sets up.
 ### Part 4.5 [4 marks]
+![](task5.png)
 #### 1. What are your improvements?
 Because  it doesn't make sense to have all buttons available on the screen at  all times, as you can't even use some of them before registering or  before having a user to interact with, they should be displayed only  when they can be used. I've achieved this by making the buttons be faded  in black when the user should not interact with them. Even if they try,  they appear o not do anything.
 Also, displaying the most recent  message in bold or using a larger font would make the user experience  better. So would removing all the log from the server from the screen  and only keeping the most recent bits of information.
